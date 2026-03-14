@@ -346,9 +346,8 @@ def sanitize_name(name: str) -> str:
 
 
 def generate_draft_post(heartbreak: dict, market: dict, losing_outcome: str) -> str:
-    """Generate a darkly humorous draft post with a Polymarket verification link."""
+    """Generate a darkly humorous draft post. URL is posted as a reply, not in the main tweet."""
     question = market.get("question", "Unknown market")
-    slug = market.get("slug", "")
     loss = heartbreak["net_loss"]
     odds = heartbreak["max_odds"]
     name = sanitize_name(heartbreak["name"])
@@ -362,87 +361,75 @@ def generate_draft_post(heartbreak: dict, market: dict, losing_outcome: str) -> 
     else:
         loss_str = f"${loss:,.0f}"
 
-    # Polymarket verification link (on X, URLs count as 23 chars regardless of length)
-    url = f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
-
     if scenario == "heartbreak":
         templates = [
             (
-                f"{name} was {odds}% sure.\n"
-                f"{loss_str} gone.\n\n"
-                f'"{question}"\n\n'
-                f"The 1% always finds someone. \U0001F56F\uFE0F\n\n"
-                f"{url}"
+                f"\U0001F40B POLYMARKET HEARTBREAK\n"
+                f"{name} bought at odds as high as {odds}% and lost {loss_str}.\n"
+                f'"{question}"\n'
+                f"Probability \u2260 certainty. @Polymarket"
             ),
             (
-                f"{odds}% odds. {loss_str} on the line.\n\n"
-                f'"{question}"\n\n'
-                f"Market said yes. Market lied.\n\n"
-                f"{url}"
+                f"{name} bought in at odds as high as {odds}% on Polymarket and lost {loss_str}.\n"
+                f'"{question}"\n'
+                f"The 1% always finds someone. \U0001F56F\uFE0F"
             ),
             (
-                f"Imagine being {odds}% right and still losing {loss_str}.\n\n"
-                f"{name} doesn't have to imagine.\n\n"
-                f'"{question}"\n\n'
-                f"{url}"
+                f"\U0001F40B POLYMARKET HEARTBREAK\n"
+                f"{name}: peak entry {odds}% \u00b7 lost {loss_str}\n"
+                f'"{question}"\n'
+                f"The 1% strikes again."
             ),
             (
-                f"HEARTBREAK \U0001F56F\uFE0F\n\n"
-                f"{name}: {loss_str} gone @ {odds}% confidence\n"
-                f'"{question}"\n\n'
-                f"Probability \u2260 certainty.\n\n"
-                f"{url}"
+                f"On Polymarket, {name} entered at odds as high as {odds}%.\n"
+                f"They lost {loss_str}.\n"
+                f'"{question}"'
             ),
             (
-                f"{name} held {odds}% odds and watched {loss_str} vanish.\n\n"
-                f'"{question}"\n\n'
-                f"The market has no sympathy. \U0001F480\n\n"
-                f"{url}"
+                f"{name} was nearly certain on Polymarket.\n"
+                f"Peak odds: {odds}%. Total lost: {loss_str}.\n"
+                f'"{question}"'
             ),
             (
-                f"{loss_str} at {odds}% confidence.\n\n"
-                f'"{question}" resolved wrong.\n\n'
-                f"That's not a bad beat. That's a robbery. \U0001F62e\u200d\U0001F4a8\n\n"
-                f"{url}"
+                f"\U0001F40B POLYMARKET HEARTBREAK\n"
+                f"Peak entry: {odds}% \u00b7 Loss: {loss_str}\n"
+                f"{name} \u00b7 \"{question}\"\n"
+                f"Found out the hard way."
             ),
         ]
     else:  # big_loss
         templates = [
             (
-                f"\U0001F40B {name} just dropped {loss_str} on Polymarket.\n\n"
-                f'"{question}"\n\n'
-                f"Wrong side. Full send. \U0001F480\n\n"
-                f"{url}"
+                f"{loss_str} lost on Polymarket.\n"
+                f'{name} was on the wrong side of "{question}"\n'
+                f"Full position. Wrong call. @Polymarket"
             ),
             (
-                f"{name}: -{loss_str}\n\n"
-                f'"{question}"\n\n'
-                f"No refunds. No mercy. \U0001F62C\n\n"
-                f"{url}"
+                f"\U0001F40B POLYMARKET WHALE LOSS\n"
+                f"{name} lost {loss_str}\n"
+                f'"{question}"\n'
+                f"No mercy."
             ),
             (
-                f'{name} went heavy on "{question}"\n\n'
-                f"{loss_str} later, the market disagreed.\n\n"
-                f"{url}"
+                f"{name} went heavy on Polymarket and lost {loss_str}.\n"
+                f'"{question}"\n'
+                f"The market disagreed."
             ),
             (
-                f"{loss_str}. Gone.\n\n"
-                f'{name} picked the wrong side of "{question}"\n\n'
-                f"Markets don't negotiate.\n\n"
-                f"{url}"
+                f"\U0001F40B POLYMARKET WHALE LOSS\n"
+                f"User: {name}  \u00b7  Lost: {loss_str}\n"
+                f'"{question}"\n'
+                f"Ouch."
             ),
             (
-                f"WHALE LOSS \U0001F40B\n\n"
-                f"User: {name}  |  Amount: {loss_str}\n"
-                f'"{question}"\n\n'
-                f"Ouch.\n\n"
-                f"{url}"
+                f"{loss_str} lost on Polymarket.\n"
+                f'{name} picked the wrong side of "{question}"\n'
+                f"Markets don't negotiate."
             ),
             (
-                f'Someone bet {loss_str} on "{question}"\n\n'
-                f"They were wrong.\n\n"
-                f"{name} has left the building. \U0001F47B\n\n"
-                f"{url}"
+                f"Someone just lost {loss_str} on Polymarket.\n"
+                f'"{question}"\n'
+                f"{name} has left the building. \U0001F47B"
             ),
         ]
 
@@ -451,13 +438,13 @@ def generate_draft_post(heartbreak: dict, market: dict, losing_outcome: str) -> 
     return templates[idx]
 
 
-def post_to_x(text: str) -> bool:
-    """Post to X (Twitter) via tweepy OAuth 1.0a. Returns True on success."""
+def post_to_x(text: str) -> Optional[str]:
+    """Post to X (Twitter) via tweepy OAuth 1.0a. Returns tweet ID on success, None on failure."""
     try:
         import tweepy  # type: ignore
     except ImportError:
         print("  [X] tweepy not installed — skipping")
-        return False
+        return None
 
     api_key = os.environ.get("X_API_KEY", "")
     api_secret = os.environ.get("X_API_SECRET", "")
@@ -465,7 +452,7 @@ def post_to_x(text: str) -> bool:
     access_secret = os.environ.get("X_ACCESS_TOKEN_SECRET", "")
 
     if not all([api_key, api_secret, access_token, access_secret]):
-        return False
+        return None
 
     if len(text) > 280:
         text = text[:277] + "..."
@@ -477,10 +464,39 @@ def post_to_x(text: str) -> bool:
             access_token=access_token,
             access_token_secret=access_secret,
         )
-        client.create_tweet(text=text)
-        return True
+        response = client.create_tweet(text=text)
+        return str(response.data["id"])
     except Exception as e:
         print(f"  [X] Post failed: {e}")
+        return None
+
+
+def reply_to_x(text: str, reply_to_id: str) -> bool:
+    """Reply to a tweet on X. Returns True on success."""
+    try:
+        import tweepy  # type: ignore
+    except ImportError:
+        return False
+
+    api_key = os.environ.get("X_API_KEY", "")
+    api_secret = os.environ.get("X_API_SECRET", "")
+    access_token = os.environ.get("X_ACCESS_TOKEN", "")
+    access_secret = os.environ.get("X_ACCESS_TOKEN_SECRET", "")
+
+    if not all([api_key, api_secret, access_token, access_secret]):
+        return False
+
+    try:
+        client = tweepy.Client(
+            consumer_key=api_key,
+            consumer_secret=api_secret,
+            access_token=access_token,
+            access_token_secret=access_secret,
+        )
+        client.create_tweet(text=text, in_reply_to_tweet_id=reply_to_id)
+        return True
+    except Exception as e:
+        print(f"  [X] Reply failed: {e}")
         return False
 
 
@@ -601,6 +617,7 @@ def main():
                 "draft": draft,
                 "loss_id": loss_id,
                 "market": question,
+                "slug": market.get("slug", ""),
                 "user": hb["name"],
                 "loss": hb["net_loss"],
                 "odds": hb["max_odds"],
@@ -619,9 +636,13 @@ def main():
 
             for d in new_drafts:
                 label = "HEARTBREAK" if d["scenario"] == "heartbreak" else "BIG LOSS"
+                slug = d.get("slug", "")
+                reply_url = f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
                 f.write(f"--- [{label}] Market: {d['market']}\n")
                 f.write(f"--- User: {d['user']} | Loss: ${d['loss']:,.0f} | Odds: {d['odds']}%\n\n")
+                f.write("[TWEET]\n")
                 f.write(d["draft"])
+                f.write(f"\n\n[REPLY]\n\U0001F517 Verify on Polymarket:\n{reply_url}")
                 f.write(f"\n\n{'─' * 40}\n\n")
 
         save_seen(seen)
@@ -642,8 +663,20 @@ def main():
             if to_post:
                 print(f"\nAuto-posting {len(to_post)} loss(es) >= ${AUTO_POST_MIN_LOSS:,}...")
                 for d in to_post:
-                    x_ok = post_to_x(d["draft"]) if has_x else False
-                    threads_ok = post_to_threads(d["draft"]) if has_threads else False
+                    slug = d.get("slug", "")
+                    url = f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
+
+                    x_ok = False
+                    if has_x:
+                        tweet_id = post_to_x(d["draft"])
+                        if tweet_id:
+                            reply_to_x(f"\U0001F517 Verify on Polymarket:\n{url}", tweet_id)
+                            x_ok = True
+
+                    threads_ok = False
+                    if has_threads:
+                        threads_ok = post_to_threads(f"{d['draft']}\n\n{url}")
+
                     platforms = [p for p, ok in [("X", x_ok), ("Threads", threads_ok)] if ok]
                     status = f"✓ {', '.join(platforms)}" if platforms else "✗ all failed"
                     print(f"  {status}: {d['user']} ${d['loss']:,.0f}")

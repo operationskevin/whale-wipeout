@@ -357,7 +357,7 @@ class TestGenerateDraftPost:
         hb = {"wallet": "0x123", "name": "User", "net_loss": 50000, "max_odds": 95.0}
         m = _market(question="Test")
         post = ww.generate_draft_post(hb, m, "No")
-        assert "polymarket.com" in post
+        assert "Polymarket" in post
 
     def test_million_dollar_format(self):
         hb = {"wallet": "0x123", "name": "User", "net_loss": 1_500_000, "max_odds": 99.0}

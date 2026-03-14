@@ -1,0 +1,24 @@
+# Environment / secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# NOTE: .seen_losses.json and drafts.txt are intentionally tracked
+# so GitHub Actions can persist state across runs.

@@ -1,0 +1,47 @@
+name: WhaleWipeout Scanner
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:           # Manual trigger from GitHub UI
+
+concurrency:
+  group: scan
+  cancel-in-progress: false    # Never cancel a running scan mid-flight
+
+permissions:
+  contents: write              # Needed to commit .seen_losses.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python3 whale_wipeout.py
+
+      - name: Commit updated seen losses and drafts
+        run: |
+          git config user.name "WhaleWipeout Bot"
+          git config user.email "whalewiepout@users.noreply.github.com"
+          git add .seen_losses.json drafts.txt
+          git diff --cached --quiet || git commit -m "chore: update seen losses [skip ci]"
+          git push

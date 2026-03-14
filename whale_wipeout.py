@@ -10,7 +10,7 @@ from __future__ import annotations
 import json
 import os
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -148,6 +148,63 @@ def get_resolved_markets_today() -> list[dict]:
     return markets
 
 
+def get_neg_risk_markets_today() -> list[dict]:
+    """
+    Fetch negRisk (3-way sports) markets that finished today but are not yet
+    formally closed. negRisk markets stay 'closed: false' until UMA dispute
+    resolution completes, which can be hours or days after the match ends.
+    We detect them by checking 'finishedTimestamp' against today's date.
+    """
+    now = datetime.now(timezone.utc)
+    today_str = now.strftime("%Y-%m-%d")
+    # Stop paginating once endDateIso goes more than 2 days into the past
+    cutoff_str = (now - timedelta(days=2)).strftime("%Y-%m-%d")
+
+    markets = []
+    offset = 0
+    limit = 100
+    max_pages = 20  # Safety cap — today's matches are near the top
+
+    while offset < max_pages * limit:
+        params = {
+            "negRisk": "true",
+            "limit": limit,
+            "offset": offset,
+            "order": "endDateIso",
+            "ascending": "false",
+        }
+        try:
+            resp = requests.get(f"{GAMMA_API}/markets", params=params, timeout=30)
+            resp.raise_for_status()
+            batch = resp.json()
+        except requests.RequestException as e:
+            print(f"\n  [warning] negRisk API error at offset {offset}: {e} — using {len(markets)} markets collected so far.")
+            break
+
+        if not batch:
+            break
+
+        found_old = False
+        for m in batch:
+            finished_date = (m.get("finishedTimestamp", "") or "")[:10]
+            end_date = (m.get("endDateIso", "") or "")[:10]
+
+            if finished_date == today_str:
+                markets.append(m)
+
+            # Stop paging once end dates go past the lookback window
+            if end_date and end_date < cutoff_str:
+                found_old = True
+
+        if found_old:
+            break
+
+        offset += limit
+        time.sleep(0.5)
+
+    return markets
+
+
 def parse_json_field(value):
     """Parse a field that may be a JSON string or already a list."""
     if isinstance(value, str):
@@ -158,26 +215,31 @@ def parse_json_field(value):
     return value if isinstance(value, list) else []
 
 
-def get_losing_outcome(market: dict) -> dict | None:
-    """Determine which outcome lost (price went to 0)."""
+def get_losing_outcomes(market: dict) -> list[dict]:
+    """
+    Return ALL outcomes that lost (price went to 0).
+    Binary markets have one loser; 3-way markets (Win/Draw/Lose) have two.
+    Scanning all losers ensures we never miss a whale who bet on the
+    second losing outcome.
+    """
     outcomes = parse_json_field(market.get("outcomes", []))
     prices = parse_json_field(market.get("outcomePrices", []))
     token_ids = parse_json_field(market.get("clobTokenIds", []))
 
     if not outcomes or not prices or not token_ids:
-        return None
+        return []
     if len(outcomes) != len(prices) or len(outcomes) != len(token_ids):
-        return None
+        return []
 
+    losers = []
     for i, price in enumerate(prices):
-        if float(price) == 0:
-            return {
+        if float(price) < 0.01:
+            losers.append({
                 "outcome": outcomes[i],
                 "token_id": token_ids[i],
                 "index": i,
-            }
-
-    return None
+            })
+    return losers
 
 
 def get_trades_for_market(condition_id: str) -> list[dict]:
@@ -215,12 +277,13 @@ def get_trades_for_market(condition_id: str) -> list[dict]:
     return all_trades
 
 
-def find_heartbreak_losses(trades: list[dict], losing_token_id: str) -> list[dict]:
+def find_heartbreak_losses(trades: list[dict], losing_token_ids: set) -> list[dict]:
     """
-    Find users who bought the losing outcome at >90% odds and lost >= $10k.
+    Find users who bought any losing outcome at >90% odds and lost >= $10k.
 
     A "heartbreak" is when someone bought shares at a price > 0.90
     (meaning the market implied >90% chance of winning) and it went to $0.
+    Accepts a set of losing token IDs to handle multi-outcome markets.
 
     Loss = sum of (size * price) for BUY trades on losing side
            minus sum of (size * price) for SELL trades on losing side
@@ -230,7 +293,7 @@ def find_heartbreak_losses(trades: list[dict], losing_token_id: str) -> list[dic
 
     for trade in trades:
         asset = trade.get("asset", "")
-        if asset != losing_token_id:
+        if asset not in losing_token_ids:
             continue
 
         wallet = trade.get("proxyWallet", "")
@@ -282,9 +345,10 @@ def find_heartbreak_losses(trades: list[dict], losing_token_id: str) -> list[dic
     return heartbreaks
 
 
-def find_big_losses(trades: list[dict], losing_token_id: str, exclude_wallets: set | None = None) -> list[dict]:
+def find_big_losses(trades: list[dict], losing_token_ids: set, exclude_wallets: set | None = None) -> list[dict]:
     """
-    Find users who lost >= $10k on the losing outcome regardless of odds.
+    Find users who lost >= $10k on any losing outcome regardless of odds.
+    Accepts a set of losing token IDs to handle multi-outcome markets.
     Excludes wallets already flagged as heartbreaks.
     """
     if exclude_wallets is None:
@@ -294,7 +358,7 @@ def find_big_losses(trades: list[dict], losing_token_id: str, exclude_wallets: s
 
     for trade in trades:
         asset = trade.get("asset", "")
-        if asset != losing_token_id:
+        if asset not in losing_token_ids:
             continue
 
         wallet = trade.get("proxyWallet", "")
@@ -343,6 +407,24 @@ def sanitize_name(name: str) -> str:
     if not name or re.match(r"^0x[0-9a-fA-F]{10,}", name):
         return "an anonymous whale"
     return name
+
+
+def get_market_url(market: dict) -> str:
+    """
+    Build the correct Polymarket URL for a market.
+    Prefers the parent event slug (from market["events"][0]["slug"]) over the
+    individual market slug, because sports markets use the event-level URL.
+    Falls back to market slug, then bare polymarket.com.
+    """
+    events = market.get("events") or []
+    if events and isinstance(events, list):
+        event_slug = events[0].get("slug", "")
+        if event_slug:
+            return f"https://polymarket.com/event/{event_slug}"
+    slug = market.get("slug", "")
+    if slug:
+        return f"https://polymarket.com/event/{slug}"
+    return "https://polymarket.com"
 
 
 def generate_draft_post(heartbreak: dict, market: dict, losing_outcome: str) -> str:
@@ -564,8 +646,21 @@ def main():
     print(f"\nScanning markets resolved on {today} (UTC)...")
 
     # Step 1: Get today's resolved markets
+    # closed=true markets (fully resolved) + negRisk markets that finished today
     markets = get_resolved_markets_today()
-    print(f"Found {len(markets)} markets resolved today.")
+    neg_risk_markets = get_neg_risk_markets_today()
+
+    # Merge, deduplicating by conditionId (prefer closed markets already in list)
+    seen_condition_ids = {m.get("conditionId") for m in markets}
+    neg_risk_added = 0
+    for m in neg_risk_markets:
+        if m.get("conditionId") not in seen_condition_ids:
+            markets.append(m)
+            seen_condition_ids.add(m.get("conditionId"))
+            neg_risk_added += 1
+
+    neg_risk_note = f" (+{neg_risk_added} negRisk)" if neg_risk_added else ""
+    print(f"Found {len(markets)} markets resolved today{neg_risk_note}.")
 
     # Step 2: Filter to qualifying events
     real_world = [m for m in markets if is_real_world_event(m)]
@@ -588,17 +683,18 @@ def main():
         label = question[:55].ljust(55)
         print(f"\r[{i + 1:4d}/{total}] {label}  ({len(new_drafts)} found)", end="", flush=True)
 
-        losing = get_losing_outcome(market)
-        if not losing:
+        losers = get_losing_outcomes(market)
+        if not losers:
             continue
 
         trades = get_trades_for_market(condition_id)
         if not trades:
             continue
 
-        heartbreaks = find_heartbreak_losses(trades, losing["token_id"])
+        losing_token_ids = {l["token_id"] for l in losers}
+        heartbreaks = find_heartbreak_losses(trades, losing_token_ids)
         heartbreak_wallets = {hb["wallet"] for hb in heartbreaks}
-        big_losses = find_big_losses(trades, losing["token_id"], exclude_wallets=heartbreak_wallets)
+        big_losses = find_big_losses(trades, losing_token_ids, exclude_wallets=heartbreak_wallets)
 
         for hb in heartbreaks + big_losses:
             loss_id = f"{condition_id}:{hb['wallet']}"
@@ -612,12 +708,12 @@ def main():
             # Break out of progress line before printing the finding
             print(f"\n  {tag}: {hb['name']} lost ${hb['net_loss']:,.0f}{odds_str}")
 
-            draft = generate_draft_post(hb, market, losing["outcome"])
+            draft = generate_draft_post(hb, market, losers[0]["outcome"])
             new_drafts.append({
                 "draft": draft,
                 "loss_id": loss_id,
                 "market": question,
-                "slug": market.get("slug", ""),
+                "url": get_market_url(market),
                 "user": hb["name"],
                 "loss": hb["net_loss"],
                 "odds": hb["max_odds"],
@@ -636,13 +732,11 @@ def main():
 
             for d in new_drafts:
                 label = "HEARTBREAK" if d["scenario"] == "heartbreak" else "BIG LOSS"
-                slug = d.get("slug", "")
-                reply_url = f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
                 f.write(f"--- [{label}] Market: {d['market']}\n")
                 f.write(f"--- User: {d['user']} | Loss: ${d['loss']:,.0f} | Odds: {d['odds']}%\n\n")
                 f.write("[TWEET]\n")
                 f.write(d["draft"])
-                f.write(f"\n\n[REPLY]\n\U0001F517 Verify on Polymarket:\n{reply_url}")
+                f.write(f"\n\n[REPLY]\n\U0001F517 Verify on Polymarket:\n{d['url']}")
                 f.write(f"\n\n{'─' * 40}\n\n")
 
         save_seen(seen)
@@ -663,8 +757,7 @@ def main():
             if to_post:
                 print(f"\nAuto-posting {len(to_post)} loss(es) >= ${AUTO_POST_MIN_LOSS:,}...")
                 for d in to_post:
-                    slug = d.get("slug", "")
-                    url = f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
+                    url = d["url"]
 
                     x_ok = False
                     if has_x:

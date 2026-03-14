@@ -150,53 +150,62 @@ def get_resolved_markets_today() -> list[dict]:
 
 def get_neg_risk_markets_today() -> list[dict]:
     """
-    Fetch negRisk (3-way sports) markets that finished today but are not yet
-    formally closed. negRisk markets stay 'closed: false' until UMA dispute
-    resolution completes, which can be hours or days after the match ends.
-    We detect them by checking 'finishedTimestamp' against today's date.
+    Fetch markets from sports events that finished today.
+
+    Uses the /events endpoint sorted by finishedTimestamp descending — today's
+    completed matches appear on page 1, avoiding the ~40,000-record pagination
+    depth problem of the /markets endpoint (which is sorted by future endDateIso).
+
+    finishedTimestamp lives on the event object, not individual markets, so we
+    must use the /events endpoint to find it. Each event embeds its markets[].
     """
     now = datetime.now(timezone.utc)
     today_str = now.strftime("%Y-%m-%d")
-    # Stop paginating once endDateIso goes more than 2 days into the past
-    cutoff_str = (now - timedelta(days=2)).strftime("%Y-%m-%d")
 
     markets = []
     offset = 0
     limit = 100
-    max_pages = 20  # Safety cap — today's matches are near the top
+    max_pages = 10  # Today's events are on page 1; cap as safety
 
     while offset < max_pages * limit:
         params = {
             "negRisk": "true",
             "limit": limit,
             "offset": offset,
-            "order": "endDateIso",
+            "order": "finishedTimestamp",
             "ascending": "false",
         }
         try:
-            resp = requests.get(f"{GAMMA_API}/markets", params=params, timeout=30)
+            resp = requests.get(f"{GAMMA_API}/events", params=params, timeout=30)
             resp.raise_for_status()
             batch = resp.json()
         except requests.RequestException as e:
-            print(f"\n  [warning] negRisk API error at offset {offset}: {e} — using {len(markets)} markets collected so far.")
+            print(f"\n  [warning] negRisk events API error at offset {offset}: {e} — using {len(markets)} found so far.")
             break
 
         if not batch:
             break
 
-        found_old = False
-        for m in batch:
-            finished_date = (m.get("finishedTimestamp", "") or "")[:10]
-            end_date = (m.get("endDateIso", "") or "")[:10]
+        found_past = False
+        for event in batch:
+            finished_ts = (event.get("finishedTimestamp", "") or "")[:10]
 
-            if finished_date == today_str:
-                markets.append(m)
+            if not finished_ts:
+                continue  # Event not yet finished — skip but keep paginating
 
-            # Stop paging once end dates go past the lookback window
-            if end_date and end_date < cutoff_str:
-                found_old = True
+            if finished_ts == today_str:
+                event_slug = event.get("slug", "")
+                event_id = event.get("id")
+                for m in event.get("markets", []):
+                    # Inject event reference so get_market_url() builds correct URL
+                    if not m.get("events"):
+                        m["events"] = [{"slug": event_slug, "id": event_id}]
+                    markets.append(m)
+            elif finished_ts < today_str:
+                found_past = True
+                break  # Past today — all subsequent events are even older
 
-        if found_old:
+        if found_past:
             break
 
         offset += limit

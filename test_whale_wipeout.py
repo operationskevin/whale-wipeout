@@ -546,6 +546,32 @@ class TestGetResolvedMarketsToday:
 # get_neg_risk_markets_today
 # ---------------------------------------------------------------------------
 
+def _event(slug, finished_ts, markets, neg_risk=True):
+    """Build a fake /events API response entry."""
+    return {
+        "id": hash(slug) & 0xFFFF,
+        "slug": slug,
+        "negRisk": neg_risk,
+        "finishedTimestamp": finished_ts,
+        "markets": markets,
+    }
+
+
+def _event_market(condition_id, question="Test match?", outcomes=None, prices=None,
+                  token_ids=None, volume=500_000):
+    """Build a fake market dict as embedded inside an event response."""
+    return {
+        "conditionId": condition_id,
+        "question": question,
+        "outcomes": json.dumps(outcomes or ["Yes", "No"]),
+        "outcomePrices": json.dumps(prices or ["0.9995", "0.0005"]),
+        "clobTokenIds": json.dumps(token_ids or ["t_win", "t_lose"]),
+        "volumeNum": volume,
+        "closedTime": "",
+        "groupItemTitle": "",
+    }
+
+
 class TestGetNegRiskMarketsToday:
     @patch("whale_wipeout.requests.get")
     @patch("whale_wipeout.time.sleep")
@@ -555,20 +581,12 @@ class TestGetNegRiskMarketsToday:
 
         mock_resp = MagicMock()
         mock_resp.json.return_value = [
-            {
-                "conditionId": "0xneg1",
-                "question": "Frankfurt not to win?",
-                "finishedTimestamp": f"{today}T16:45:46Z",
-                "endDateIso": today,
-                "negRisk": True,
-            },
-            {
-                "conditionId": "0xneg2",
-                "question": "Draw or not?",
-                "finishedTimestamp": f"{today}T18:00:00Z",
-                "endDateIso": today,
-                "negRisk": True,
-            },
+            _event("bun-ein-hei-2026-03-14", f"{today}T16:45:46Z", [
+                _event_market("0xneg1", "Will Frankfurt win?"),
+            ]),
+            _event("other-match-2026-03-14", f"{today}T18:00:00Z", [
+                _event_market("0xneg2", "Other match?"),
+            ]),
         ]
         mock_resp.raise_for_status = MagicMock()
         mock_get.return_value = mock_resp
@@ -580,23 +598,67 @@ class TestGetNegRiskMarketsToday:
 
     @patch("whale_wipeout.requests.get")
     @patch("whale_wipeout.time.sleep")
-    def test_old_market_not_included(self, mock_sleep, mock_get):
-        """Markets with finishedTimestamp != today should not be included."""
+    def test_event_slug_injected_into_market(self, mock_sleep, mock_get):
+        """Markets extracted from events get the event slug injected for URL building."""
+        from datetime import datetime, timezone
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+        page1 = MagicMock()
+        page1.raise_for_status = MagicMock()
+        page1.json.return_value = [
+            _event("bun-ein-hei-2026-03-14", f"{today}T16:45:46Z", [
+                _event_market("0xm1"),
+            ]),
+        ]
+        page2 = MagicMock()
+        page2.raise_for_status = MagicMock()
+        page2.json.return_value = []
+        mock_get.side_effect = [page1, page2]
+
+        result = ww.get_neg_risk_markets_today()
+        assert len(result) == 1
+        assert result[0]["events"][0]["slug"] == "bun-ein-hei-2026-03-14"
+        assert ww.get_market_url(result[0]) == "https://polymarket.com/event/bun-ein-hei-2026-03-14"
+
+    @patch("whale_wipeout.requests.get")
+    @patch("whale_wipeout.time.sleep")
+    def test_old_event_not_included(self, mock_sleep, mock_get):
+        """Events with finishedTimestamp before today are not included and stop pagination."""
         mock_resp = MagicMock()
         mock_resp.json.return_value = [
-            {
-                "conditionId": "0xold",
-                "question": "Old match",
-                "finishedTimestamp": "2020-01-01T18:00:00Z",
-                "endDateIso": "2020-01-01",
-                "negRisk": True,
-            },
+            _event("old-match", "2020-01-01T18:00:00Z", [
+                _event_market("0xold"),
+            ]),
         ]
         mock_resp.raise_for_status = MagicMock()
         mock_get.return_value = mock_resp
 
         result = ww.get_neg_risk_markets_today()
         assert result == []
+
+    @patch("whale_wipeout.requests.get")
+    @patch("whale_wipeout.time.sleep")
+    def test_event_without_finished_timestamp_skipped(self, mock_sleep, mock_get):
+        """Events with no finishedTimestamp (not yet ended) are skipped."""
+        from datetime import datetime, timezone
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+        mock_resp = MagicMock()
+        mock_resp.json.return_value = [
+            _event("future-match", f"{today}T16:00:00Z", [
+                _event_market("0xtoday"),
+            ]),
+            _event("no-ts-match", None, [  # No finishedTimestamp
+                _event_market("0xnots"),
+            ]),
+        ]
+        mock_resp.raise_for_status = MagicMock()
+        mock_get.return_value = mock_resp
+
+        result = ww.get_neg_risk_markets_today()
+        condition_ids = [m["conditionId"] for m in result]
+        assert "0xtoday" in condition_ids
+        assert "0xnots" not in condition_ids  # Skipped, not stopped
 
     @patch("whale_wipeout.requests.get")
     @patch("whale_wipeout.time.sleep")

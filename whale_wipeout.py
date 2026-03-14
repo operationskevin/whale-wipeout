@@ -337,15 +337,24 @@ def find_big_losses(trades: list[dict], losing_token_id: str, exclude_wallets: s
     return big_losses
 
 
+def sanitize_name(name: str) -> str:
+    """Return display name, falling back to 'an anonymous whale' for raw wallet addresses."""
+    import re
+    if not name or re.match(r"^0x[0-9a-fA-F]{10,}", name):
+        return "an anonymous whale"
+    return name
+
+
 def generate_draft_post(heartbreak: dict, market: dict, losing_outcome: str) -> str:
-    """Generate a deadpan, darkly humorous draft post."""
+    """Generate a darkly humorous draft post with a Polymarket verification link."""
     question = market.get("question", "Unknown market")
+    slug = market.get("slug", "")
     loss = heartbreak["net_loss"]
     odds = heartbreak["max_odds"]
-    name = heartbreak["name"]
+    name = sanitize_name(heartbreak["name"])
     scenario = heartbreak.get("scenario", "heartbreak")
 
-    # Format loss nicely
+    # Format loss amount
     if loss >= 1_000_000:
         loss_str = f"${loss / 1_000_000:.1f}M"
     elif loss >= 1_000:
@@ -353,53 +362,91 @@ def generate_draft_post(heartbreak: dict, market: dict, losing_outcome: str) -> 
     else:
         loss_str = f"${loss:,.0f}"
 
+    # Polymarket verification link (on X, URLs count as 23 chars regardless of length)
+    url = f"https://polymarket.com/event/{slug}" if slug else "https://polymarket.com"
+
     if scenario == "heartbreak":
         templates = [
             (
-                f"{name} held {odds}% odds. {loss_str} on the line.\n\n"
-                f'"{question}" — resolved against them.\n\n'
-                f"That\'s not a bad beat. That\'s a funeral.\n\n"
-                f"@WhaleWipeout"
-            ),
-            (
-                f"{name} went in at {odds}% confidence "
-                f"and watched {loss_str} evaporate.\n\n"
-                f'Market: "{question}"\n\n'
-                f"The house doesn\'t always win. But the market does.\n\n"
-                f"@WhaleWipeout"
-            ),
-            (
-                f"Polymarket heartbreak alert:\n\n"
-                f"{name}: {loss_str} gone. {odds}% sure it was a lock.\n\n"
+                f"{name} was {odds}% sure.\n"
+                f"{loss_str} gone.\n\n"
                 f'"{question}"\n\n'
-                f"Turns out {odds}% isn\'t 100%. Moment of silence. \U0001F56F\uFE0F\n\n"
-                f"@WhaleWipeout"
+                f"The 1% always finds someone. \U0001F56F\uFE0F\n\n"
+                f"{url}"
+            ),
+            (
+                f"{odds}% odds. {loss_str} on the line.\n\n"
+                f'"{question}"\n\n'
+                f"Market said yes. Market lied.\n\n"
+                f"{url}"
+            ),
+            (
+                f"Imagine being {odds}% right and still losing {loss_str}.\n\n"
+                f"{name} doesn't have to imagine.\n\n"
+                f'"{question}"\n\n'
+                f"{url}"
+            ),
+            (
+                f"HEARTBREAK \U0001F56F\uFE0F\n\n"
+                f"{name}: {loss_str} gone @ {odds}% confidence\n"
+                f'"{question}"\n\n'
+                f"Probability \u2260 certainty.\n\n"
+                f"{url}"
+            ),
+            (
+                f"{name} held {odds}% odds and watched {loss_str} vanish.\n\n"
+                f'"{question}"\n\n'
+                f"The market has no sympathy. \U0001F480\n\n"
+                f"{url}"
+            ),
+            (
+                f"{loss_str} at {odds}% confidence.\n\n"
+                f'"{question}" resolved wrong.\n\n'
+                f"That's not a bad beat. That's a robbery. \U0001F62e\u200d\U0001F4a8\n\n"
+                f"{url}"
             ),
         ]
     else:  # big_loss
         templates = [
             (
-                f"Whale loss alert:\n\n"
-                f"{name} dropped {loss_str} on Polymarket.\n\n"
-                f'"{question}" didn\'t go their way.\n\n'
-                f"The market always collects.\n\n"
-                f"@WhaleWipeout"
-            ),
-            (
-                f"{name}: {loss_str}. Gone.\n\n"
+                f"\U0001F40B {name} just dropped {loss_str} on Polymarket.\n\n"
                 f'"{question}"\n\n'
-                f"No high-odds story. Just a heavy position on the wrong side.\n\n"
-                f"@WhaleWipeout"
+                f"Wrong side. Full send. \U0001F480\n\n"
+                f"{url}"
             ),
             (
-                f"It happens to the best of them.\n\n"
-                f"{name} lost {loss_str} on \"{question}\"\n\n"
-                f"Markets are humbling.\n\n"
-                f"@WhaleWipeout"
+                f"{name}: -{loss_str}\n\n"
+                f'"{question}"\n\n'
+                f"No refunds. No mercy. \U0001F62C\n\n"
+                f"{url}"
+            ),
+            (
+                f'{name} went heavy on "{question}"\n\n'
+                f"{loss_str} later, the market disagreed.\n\n"
+                f"{url}"
+            ),
+            (
+                f"{loss_str}. Gone.\n\n"
+                f'{name} picked the wrong side of "{question}"\n\n'
+                f"Markets don't negotiate.\n\n"
+                f"{url}"
+            ),
+            (
+                f"WHALE LOSS \U0001F40B\n\n"
+                f"User: {name}  |  Amount: {loss_str}\n"
+                f'"{question}"\n\n'
+                f"Ouch.\n\n"
+                f"{url}"
+            ),
+            (
+                f'Someone bet {loss_str} on "{question}"\n\n'
+                f"They were wrong.\n\n"
+                f"{name} has left the building. \U0001F47B\n\n"
+                f"{url}"
             ),
         ]
 
-    # Rotate templates based on hash of wallet for variety
+    # Rotate templates based on wallet hash for variety across runs
     idx = hash(heartbreak["wallet"]) % len(templates)
     return templates[idx]
 

@@ -119,9 +119,13 @@ def get_resolved_markets_today() -> list[dict]:
             "order": "closedTime",
             "ascending": "false",
         }
-        resp = requests.get(f"{GAMMA_API}/markets", params=params, timeout=30)
-        resp.raise_for_status()
-        batch = resp.json()
+        try:
+            resp = requests.get(f"{GAMMA_API}/markets", params=params, timeout=30)
+            resp.raise_for_status()
+            batch = resp.json()
+        except requests.RequestException as e:
+            print(f"\n  [warning] Polymarket API error at offset {offset}: {e} — using {len(markets)} markets collected so far.")
+            break
 
         if not batch:
             break

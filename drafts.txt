@@ -14044,3 +14044,22 @@ https://polymarket.com/event/elc-bbr-mid-2026-03-21
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-03-21T16:01:26.400867+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will Elche CF vs. RCD Mallorca end in a draw?
+--- User: 0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725 | Loss: $40,000 | Odds: 30.5%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $40.0K.
+"Will Elche CF vs. RCD Mallorca end in a draw?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lal-elc-mal-2026-03-21
+
+────────────────────────────────────────
+

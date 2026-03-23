@@ -19590,3 +19590,22 @@ https://polymarket.com/event/mex-jua-tig-2026-03-22
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-03-23T09:23:40.240373+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will Emmanuel Grégoire win the Paris mayor election?
+--- User: influenz.eth | Loss: $10,775 | Odds: 30.0%
+
+[TWEET]
+$10.8K lost on Polymarket.
+influenz.eth was on the wrong side of "Will Emmanuel Grégoire win the Paris mayor election?"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/paris-mayoral-election
+
+────────────────────────────────────────
+

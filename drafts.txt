@@ -23553,3 +23553,22 @@ https://polymarket.com/event/mlb-oak-tor-2026-03-27
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-03-28T10:01:59.939153+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will Crude Oil (CL) hit (HIGH) $95 by end of March?
+--- User: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Loss: $24,412 | Odds: 62.8%
+
+[TWEET]
+$24.4K lost on Polymarket.
+an anonymous whale was on the wrong side of "Will Crude Oil (CL) hit (HIGH) $95 by end of March?"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/will-crude-oil-cl-hit-by-end-of-march
+
+────────────────────────────────────────
+

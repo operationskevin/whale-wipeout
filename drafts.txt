@@ -25466,3 +25466,37 @@ https://polymarket.com/event/cs2-vit-navi-2026-03-29
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-03-29T19:33:09.906736+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Dubrovnik: Andrea Lazaro Garcia vs Anhelina Kalinina
+--- User: RN1 | Loss: $12,541 | Odds: 93.0%
+
+[TWEET]
+🐋 POLYMARKET HEARTBREAK
+RN1: peak entry 93.0% · lost $12.5K
+"Dubrovnik: Andrea Lazaro Garcia vs Anhelina Kalinina"
+The 1% strikes again.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-garcia-kalinin-2026-03-29
+
+────────────────────────────────────────
+
+--- [HEARTBREAK] Market: Dubrovnik: Andrea Lazaro Garcia vs Anhelina Kalinina
+--- User: 0x871fDf77d7290a5EF1E099e7266289A25e585ac9-1773924636329 | Loss: $20,000 | Odds: 92.5%
+
+[TWEET]
+On Polymarket, an anonymous whale entered at odds as high as 92.5%.
+They lost $20.0K.
+"Dubrovnik: Andrea Lazaro Garcia vs Anhelina Kalinina"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-garcia-kalinin-2026-03-29
+
+────────────────────────────────────────
+

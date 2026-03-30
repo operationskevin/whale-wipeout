@@ -26518,3 +26518,36 @@ https://polymarket.com/event/atp-loffhag-rodiono-2026-03-29
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-03-30T15:07:21.669474+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Miyazaki: August Holmgren vs Yuto Oki
+--- User: swisstony | Loss: $13,514 | Odds: 97.0%
+
+[TWEET]
+On Polymarket, swisstony entered at odds as high as 97.0%.
+They lost $13.5K.
+"Miyazaki: August Holmgren vs Yuto Oki"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-holmgre-oki-2026-03-29
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Grand Prix Hassan II: Aleksandar Vukic vs Taha Baadi
+--- User: 0x871fDf77d7290a5EF1E099e7266289A25e585ac9-1773924636329 | Loss: $22,723 | Odds: 80.5%
+
+[TWEET]
+$22.7K lost on Polymarket.
+an anonymous whale was on the wrong side of "Grand Prix Hassan II: Aleksandar Vukic vs Taha Baadi"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-vukic-baadi-2026-03-30
+
+────────────────────────────────────────
+

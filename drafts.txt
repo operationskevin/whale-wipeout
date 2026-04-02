@@ -29756,3 +29756,22 @@ https://polymarket.com/event/nba-phi-was-2026-04-01
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-02T11:41:44.449011+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will USD reach 1.8M Iranian rials by March 31?
+--- User: 0x18312d2a617106b6f3B9D828FFE2247a89A2aE73-1772799130715 | Loss: $18,402 | Odds: 43.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $18.4K.
+"Will USD reach 1.8M Iranian rials by March 31?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/will-usd-hit-iranian-rials-by-march-31
+
+────────────────────────────────────────
+

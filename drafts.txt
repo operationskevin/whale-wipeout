@@ -38483,3 +38483,22 @@ https://polymarket.com/event/col-ray-aek1-2026-04-09
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-09T23:23:42.354580+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: TheMongolz vs PARIVISION (BO3) - PGL Bucharest Playoffs
+--- User: 0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461 | Loss: $24,711 | Odds: 70.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $24.7K.
+"Counter-Strike: TheMongolz vs PARIVISION (BO3) - PGL Bucharest Playoffs"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mglz-prv-2026-04-09
+
+────────────────────────────────────────
+

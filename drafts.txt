@@ -45060,3 +45060,22 @@ https://polymarket.com/event/mlb-cws-kc-2026-04-12
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-13T14:04:58.875964+00:00
+============================================================
+
+--- [BIG LOSS] Market: Barcelona Open: Tomas Etcheverry vs Jack Draper
+--- User: ronaldleeuw1 | Loss: $12,227 | Odds: 68.0%
+
+[TWEET]
+Someone just lost $12.2K on Polymarket.
+"Barcelona Open: Tomas Etcheverry vs Jack Draper"
+ronaldleeuw1 has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-etcheve-draper-2026-04-13
+
+────────────────────────────────────────
+

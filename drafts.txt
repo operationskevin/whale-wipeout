@@ -46158,3 +46158,22 @@ https://polymarket.com/event/atp-ivashka-sweeny-2026-04-12
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-14T12:48:23.244977+00:00
+============================================================
+
+--- [BIG LOSS] Market: Busan: Marat Sharipov vs Yasutaka Uchiyama
+--- User: 0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461 | Loss: $47,774 | Odds: 40.0%
+
+[TWEET]
+Someone just lost $47.8K on Polymarket.
+"Busan: Marat Sharipov vs Yasutaka Uchiyama"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-sharipo-uchiyam-2026-04-13
+
+────────────────────────────────────────
+

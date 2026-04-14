@@ -46139,3 +46139,22 @@ https://polymarket.com/event/nhl-col-edm-2026-04-13
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-14T11:23:04.932415+00:00
+============================================================
+
+--- [BIG LOSS] Market: Busan: Ilya Ivashka vs Dane Sweeny
+--- User: 0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461 | Loss: $40,457 | Odds: 40.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $40.5K.
+"Busan: Ilya Ivashka vs Dane Sweeny"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-ivashka-sweeny-2026-04-12
+
+────────────────────────────────────────
+

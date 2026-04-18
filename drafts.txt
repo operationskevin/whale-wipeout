@@ -52454,3 +52454,22 @@ https://polymarket.com/event/bun-ein-lei-2026-04-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-18T20:16:56.338373+00:00
+============================================================
+
+--- [BIG LOSS] Market: Raptors vs. Cavaliers
+--- User: 0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725 | Loss: $48,760 | Odds: 19.0%
+
+[TWEET]
+Someone just lost $48.8K on Polymarket.
+"Raptors vs. Cavaliers"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/nba-tor-cle-2026-04-18
+
+────────────────────────────────────────
+

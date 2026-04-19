@@ -53375,3 +53375,22 @@ https://polymarket.com/event/aus-auc-ccm-2026-04-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-19T10:52:57.170577+00:00
+============================================================
+
+--- [BIG LOSS] Market: Hiroshima Dragonflies vs. Shimane Susanoo Magic
+--- User: 0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461 | Loss: $18,929 | Odds: 45.0%
+
+[TWEET]
+Someone just lost $18.9K on Polymarket.
+"Hiroshima Dragonflies vs. Shimane Susanoo Magic"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/bkjpn-hir-shi2-2026-04-19
+
+────────────────────────────────────────
+

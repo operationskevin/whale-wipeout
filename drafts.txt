@@ -54461,3 +54461,37 @@ https://polymarket.com/event/nhl-utah-las-2026-04-19
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-20T14:29:52.607722+00:00
+============================================================
+
+--- [BIG LOSS] Market: Madrid Open, Qualification: Anna Blinkova vs Nuria Brancaccio
+--- User: RN1 | Loss: $10,025 | Odds: 70.1%
+
+[TWEET]
+$10.0K lost on Polymarket.
+RN1 was on the wrong side of "Madrid Open, Qualification: Anna Blinkova vs Nuria Brancaccio"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-blinkov-brancac-2026-04-20
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Madrid Open, Qualification: Donna Vekic vs Leolia Jeanjean
+--- User: 0x871fDf77d7290a5EF1E099e7266289A25e585ac9-1773924636329 | Loss: $15,928 | Odds: 86.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $15.9K
+"Madrid Open, Qualification: Donna Vekic vs Leolia Jeanjean"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-vekic-jeanjea-2026-04-20
+
+────────────────────────────────────────
+

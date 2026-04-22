@@ -56222,3 +56222,36 @@ https://polymarket.com/event/atp-wiskand-bailly-2026-04-22
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-22T11:20:27.473652+00:00
+============================================================
+
+--- [BIG LOSS] Market: Shymkent: Sandro Kopp vs Sergey Fomin
+--- User: RN1 | Loss: $10,425 | Odds: 61.0%
+
+[TWEET]
+Someone just lost $10.4K on Polymarket.
+"Shymkent: Sandro Kopp vs Sergey Fomin"
+RN1 has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-kopp-fomin-2026-04-22
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Madrid Open: Zhizhen Zhang vs Vit Kopriva
+--- User: 0x1B4d7cBD8DCe8A56Dd2c51E952cCCbF55F78e246-1759455462400 | Loss: $14,775 | Odds: 50.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $14.8K.
+"Madrid Open: Zhizhen Zhang vs Vit Kopriva"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-zhang-kopriva-2026-04-22
+
+────────────────────────────────────────
+

@@ -56893,3 +56893,50 @@ https://polymarket.com/event/dfb-lev-bay-2026-04-22
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-23T00:03:55.080672+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will Atalanta BC win on 2026-04-22?
+--- User: 0x8a6C6811e8937F9E8aFc1b9249FA540262c30b3f-1771776258725 | Loss: $11,618 | Odds: 57.9%
+
+[TWEET]
+$11.6K lost on Polymarket.
+an anonymous whale picked the wrong side of "Will Atalanta BC win on 2026-04-22?"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/itc-ata-laz-2026-04-22
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Valorant: Natus Vincere vs Team Liquid (BO3) - VCT EMEA Group Alpha
+--- User: TimmyTurner123 | Loss: $34,396 | Odds: 34.0%
+
+[TWEET]
+$34.4K lost on Polymarket.
+TimmyTurner123 was on the wrong side of "Valorant: Natus Vincere vs Team Liquid (BO3) - VCT EMEA Group Alpha"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/val-navi1-tl1-2026-04-24
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Athletics vs. Seattle Mariners
+--- User: smartw | Loss: $30,654 | Odds: 38.0%
+
+[TWEET]
+$30.7K lost on Polymarket.
+smartw was on the wrong side of "Athletics vs. Seattle Mariners"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-oak-sea-2026-04-22
+
+────────────────────────────────────────
+

@@ -58245,3 +58245,36 @@ https://polymarket.com/event/deepseek-v4-released-by-march-31
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-24T11:49:49.436169+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will Macarthur FC win on 2026-04-24?
+--- User: swisstony | Loss: $15,741 | Odds: 62.0%
+
+[TWEET]
+swisstony went heavy on Polymarket and lost $15.7K.
+"Will Macarthur FC win on 2026-04-24?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/aus-mac-wel-2026-04-24
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Madrid Open: Tallon Griekspoor vs Damir Dzumhur
+--- User: 0xBba9715c2d807F00071EDEFD8bC9627554EAf183-1760054639292 | Loss: $11,723 | Odds: 40.1%
+
+[TWEET]
+$11.7K lost on Polymarket.
+an anonymous whale was on the wrong side of "Madrid Open: Tallon Griekspoor vs Damir Dzumhur"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-grieksp-dzumhur-2026-04-24
+
+────────────────────────────────────────
+

@@ -59434,3 +59434,52 @@ https://polymarket.com/event/epl-ful-ast-2026-04-25
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-25T15:20:15.175686+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Madrid Open: Ugo Humbert vs Terence Atmane
+--- User: Valui | Loss: $10,430 | Odds: 97.2%
+
+[TWEET]
+🐋 POLYMARKET HEARTBREAK
+Valui bought at odds as high as 97.2% and lost $10.4K.
+"Madrid Open: Ugo Humbert vs Terence Atmane"
+Probability ≠ certainty. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-humbert-atmane-2026-04-25
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Madrid Open: Ugo Humbert vs Terence Atmane
+--- User: sbimbg | Loss: $96,137 | Odds: 76.5%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: sbimbg  ·  Lost: $96.1K
+"Madrid Open: Ugo Humbert vs Terence Atmane"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-humbert-atmane-2026-04-25
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Madrid Open: Ugo Humbert vs Terence Atmane
+--- User: dontsaymyname | Loss: $30,193 | Odds: 71.6%
+
+[TWEET]
+dontsaymyname went heavy on Polymarket and lost $30.2K.
+"Madrid Open: Ugo Humbert vs Terence Atmane"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-humbert-atmane-2026-04-25
+
+────────────────────────────────────────
+

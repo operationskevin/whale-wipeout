@@ -61475,3 +61475,22 @@ https://polymarket.com/event/bun-stu-wer-2026-04-26
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-26T17:20:16.816457+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: Monte vs NIP (BO3) - CCT Global Finals Playoffs
+--- User: 0x1a5c09d9a082aAF2A543b1Fc7bCE36c41dD8a375-1774116788380 | Loss: $80,713 | Odds: 50.0%
+
+[TWEET]
+$80.7K lost on Polymarket.
+an anonymous whale picked the wrong side of "Counter-Strike: Monte vs NIP (BO3) - CCT Global Finals Playoffs"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mnte-nip-2026-04-26
+
+────────────────────────────────────────
+

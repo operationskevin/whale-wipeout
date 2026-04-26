@@ -61037,3 +61037,23 @@ https://polymarket.com/event/ufc-rao-mon1-2026-04-25
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-26T08:10:37.750726+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Will Jeonbuk Hyundai Motors FC win on 2026-04-26?
+--- User: 0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9Bc1-1772479215461 | Loss: $14,989 | Odds: 90.0%
+
+[TWEET]
+🐋 POLYMARKET HEARTBREAK
+Peak entry: 90.0% · Loss: $15.0K
+an anonymous whale · "Will Jeonbuk Hyundai Motors FC win on 2026-04-26?"
+Found out the hard way.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/kor-jeo-poh-2026-04-26
+
+────────────────────────────────────────
+

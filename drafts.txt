@@ -61675,3 +61675,36 @@ https://polymarket.com/event/atp-kopriva-rinderk-2026-04-26
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-26T20:22:10.856010+00:00
+============================================================
+
+--- [BIG LOSS] Market: Cavaliers vs. Raptors
+--- User: 0x6db568e6 | Loss: $38,816 | Odds: 84.3%
+
+[TWEET]
+0x6db568e6 went heavy on Polymarket and lost $38.8K.
+"Cavaliers vs. Raptors"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/nba-cle-tor-2026-04-26
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Cavaliers vs. Raptors
+--- User: ElonSpam | Loss: $10,606 | Odds: 89.0%
+
+[TWEET]
+$10.6K lost on Polymarket.
+ElonSpam was on the wrong side of "Cavaliers vs. Raptors"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/nba-cle-tor-2026-04-26
+
+────────────────────────────────────────
+

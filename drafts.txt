@@ -63119,3 +63119,22 @@ https://polymarket.com/event/cs2-3dmaxa-np1-2026-04-27
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-04-28T10:32:06.064317+00:00
+============================================================
+
+--- [BIG LOSS] Market: Shymkent 2: Antoine Ghibaudo vs Oleksii Krutykh
+--- User: 0xCe363bb68FB796127322843B4E1848c98B442b99-1776636018239 | Loss: $12,611 | Odds: 31.6%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $12.6K.
+"Shymkent 2: Antoine Ghibaudo vs Oleksii Krutykh"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-ghibaud-krutykh-2026-04-28
+
+────────────────────────────────────────
+

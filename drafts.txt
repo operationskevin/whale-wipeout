@@ -66593,3 +66593,36 @@ https://polymarket.com/event/nba-den-min-2026-04-30
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-01T09:28:29.319941+00:00
+============================================================
+
+--- [BIG LOSS] Market: NBA Playoffs: Who Will Win Series? - Timberwolves vs. Nuggets 
+--- User: 08AF | Loss: $38,687 | Odds: 88.0%
+
+[TWEET]
+08AF went heavy on Polymarket and lost $38.7K.
+"NBA Playoffs: Who Will Win Series? - Timberwolves vs. Nuggets "
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/nba-playoffs-who-will-win-series-timberwolves-vs-nuggets
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will SpaceX Starship Flight Test 12 Superheavy explode?
+--- User: 0x6ddeaa60 | Loss: $11,288 | Odds: 75.0%
+
+[TWEET]
+$11.3K lost on Polymarket.
+0x6ddeaa60 was on the wrong side of "Will SpaceX Starship Flight Test 12 Superheavy explode?"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/spacex-starship-flight-test-12
+
+────────────────────────────────────────
+

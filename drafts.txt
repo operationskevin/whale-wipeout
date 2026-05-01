@@ -66857,3 +66857,22 @@ https://polymarket.com/event/tur-riz-kon-2026-05-01
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-01T18:58:05.757319+00:00
+============================================================
+
+--- [BIG LOSS] Market: Mauthausen: Lukas Neumayer vs Laslo Djere
+--- User: 0x1De39f5A4b1313B99fd5278036b2964cC03ca1fA-1777567197544 | Loss: $21,888 | Odds: 55.2%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $21.9K.
+"Mauthausen: Lukas Neumayer vs Laslo Djere"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-neumaye-djere-2026-05-01
+
+────────────────────────────────────────
+

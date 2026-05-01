@@ -66626,3 +66626,23 @@ https://polymarket.com/event/spacex-starship-flight-test-12
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-01T11:11:52.439302+00:00
+============================================================
+
+--- [BIG LOSS] Market: Jiujiang: Yunchaokete Bu vs Coleman Wong
+--- User: 0x1De39f5A4b1313B99fd5278036b2964cC03ca1fA-1777567197544 | Loss: $11,021 | Odds: 54.7%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $11.0K
+"Jiujiang: Yunchaokete Bu vs Coleman Wong"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-bu-wong-2026-04-30
+
+────────────────────────────────────────
+

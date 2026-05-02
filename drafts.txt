@@ -68255,3 +68255,37 @@ https://polymarket.com/event/lol-drx-ns-2026-05-02
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-02T19:19:31.291013+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will AS Monaco FC win on 2026-05-02?
+--- User: 0xd4aa6f8e91cfea29b66a48ebff52814 | Loss: $11,001 | Odds: 28.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $11.0K.
+"Will AS Monaco FC win on 2026-05-02?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fl1-met-asm-2026-05-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will AS Monaco FC win on 2026-05-02?
+--- User: 0x2a2C53bD278c04DA9962Fcf96490E17F3DfB9B | Loss: $15,912 | Odds: 28.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $15.9K
+"Will AS Monaco FC win on 2026-05-02?"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fl1-met-asm-2026-05-02
+
+────────────────────────────────────────
+

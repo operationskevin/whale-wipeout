@@ -71681,3 +71681,22 @@ https://polymarket.com/event/ucl-ars-atm1-2026-05-05
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-05T22:43:50.376642+00:00
+============================================================
+
+--- [BIG LOSS] Market: Francavilla: Justin Engel vs Nikolas Sanchez Izquierdo
+--- User: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | Loss: $33,486 | Odds: 46.9%
+
+[TWEET]
+$33.5K lost on Polymarket.
+an anonymous whale was on the wrong side of "Francavilla: Justin Engel vs Nikolas Sanchez Izquierdo"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-engel-izquier-2026-05-04
+
+────────────────────────────────────────
+

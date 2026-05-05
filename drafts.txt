@@ -71421,3 +71421,37 @@ https://polymarket.com/event/mlb-atl-sea-2026-05-04
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-05T10:59:32.980575+00:00
+============================================================
+
+--- [BIG LOSS] Market: Jiujiang: Aoi Ito vs Lizette Cabrera
+--- User: 0xBba9715c2d807F00071EDEFD8bC9627554EAf183-1760054639292 | Loss: $10,382 | Odds: 47.3%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $10.4K
+"Jiujiang: Aoi Ito vs Lizette Cabrera"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-ito-cabrera-2026-05-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Internazionali BNL d'Italia, Qualification: Gabriela Ruse vs Sinja Kraus
+--- User: 0x0eBBb3e9fDe570Bb7F6c452E9F9Eee4EC6EaCB1A-1773005453663 | Loss: $11,059 | Odds: 65.0%
+
+[TWEET]
+$11.1K lost on Polymarket.
+an anonymous whale picked the wrong side of "Internazionali BNL d'Italia, Qualification: Gabriela Ruse vs Sinja Kraus"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-ruse-kraus-2026-05-05
+
+────────────────────────────────────────
+

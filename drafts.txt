@@ -72201,3 +72201,52 @@ https://polymarket.com/event/j1100-kaw-ver-2026-05-06
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-06T13:27:50.098875+00:00
+============================================================
+
+--- [BIG LOSS] Market: Wuxi: Mark Lajal vs Mikhail Kukushkin
+--- User: 0x1ef5bc81 | Loss: $13,279 | Odds: 88.9%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x1ef5bc81  ·  Lost: $13.3K
+"Wuxi: Mark Lajal vs Mikhail Kukushkin"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-lajal-kukushk-2026-05-05
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Internazionali BNL d'Italia: Alexandre Muller vs Botic van de Zandschulp
+--- User: 0x1ef5bc81 | Loss: $10,145 | Odds: 48.2%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x1ef5bc81  ·  Lost: $10.1K
+"Internazionali BNL d'Italia: Alexandre Muller vs Botic van de Zandschulp"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-muller-zandsch-2026-05-06
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Internazionali BNL d'Italia: Leolia Jeanjean vs Beatriz Haddad Maia
+--- User: ferrariChampions2026 | Loss: $12,927 | Odds: 44.0%
+
+[TWEET]
+$12.9K lost on Polymarket.
+ferrariChampions2026 was on the wrong side of "Internazionali BNL d'Italia: Leolia Jeanjean vs Beatriz Haddad Maia"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-jeanjea-maia-2026-05-06
+
+────────────────────────────────────────
+

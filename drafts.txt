@@ -76861,3 +76861,22 @@ https://polymarket.com/event/mls-clt-fcc-2026-05-09
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-10T09:52:01.246783+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: MOUZ vs G2 - Map 2 Winner
+--- User: 8a96e8574e3d3FAc01656Ee78eb476F1A8E5430A | Loss: $11,283 | Odds: 68.0%
+
+[TWEET]
+$11.3K lost on Polymarket.
+8a96e8574e3d3FAc01656Ee78eb476F1A8E5430A was on the wrong side of "Counter-Strike: MOUZ vs G2 - Map 2 Winner"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mouz-g2-2026-05-10
+
+────────────────────────────────────────
+

@@ -78706,3 +78706,22 @@ https://polymarket.com/event/mlb-atl-lad-2026-05-10
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-11T01:34:28.412884+00:00
+============================================================
+
+--- [BIG LOSS] Market: LoL: Cloud9 vs FlyQuest (BO3) - LCS Regular Season
+--- User: 0x4C6890b45BB856A347B1919Cca0CB08edDB30dF1-1771874017337 | Loss: $18,461 | Odds: 57.0%
+
+[TWEET]
+Someone just lost $18.5K on Polymarket.
+"LoL: Cloud9 vs FlyQuest (BO3) - LCS Regular Season"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-c9-fly-2026-05-10
+
+────────────────────────────────────────
+

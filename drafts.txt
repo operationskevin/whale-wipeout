@@ -79817,3 +79817,36 @@ https://polymarket.com/event/cs2-lgc-m80-2026-05-11
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-12T10:13:46.808382+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: MOUZ vs Aurora Gaming (BO3) - PGL Astana Group Stage
+--- User: 0x0dcf5B49627C5194805bD1AF846Fd0bd3388c556-1769755919166 | Loss: $10,575 | Odds: 47.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $10.6K.
+"Counter-Strike: MOUZ vs Aurora Gaming (BO3) - PGL Astana Group Stage"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mouz-aur1-2026-05-12
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: MOUZ vs Aurora Gaming - Map 1 Winner
+--- User: 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Loss: $11,082 | Odds: 50.0%
+
+[TWEET]
+$11.1K lost on Polymarket.
+an anonymous whale picked the wrong side of "Counter-Strike: MOUZ vs Aurora Gaming - Map 1 Winner"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mouz-aur1-2026-05-12
+
+────────────────────────────────────────
+

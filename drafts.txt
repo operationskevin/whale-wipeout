@@ -83049,3 +83049,22 @@ https://polymarket.com/event/lol-lng-lgd-2026-05-14
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-14T15:41:42.808399+00:00
+============================================================
+
+--- [BIG LOSS] Market: Set Handicap: Gauff (-1.5) vs Cirstea (+1.5)
+--- User: NiNo999 | Loss: $14,000 | Odds: 60.0%
+
+[TWEET]
+NiNo999 went heavy on Polymarket and lost $14.0K.
+"Set Handicap: Gauff (-1.5) vs Cirstea (+1.5)"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-cirstea-gauff-2026-05-14
+
+────────────────────────────────────────
+

@@ -88679,3 +88679,52 @@ https://polymarket.com/event/wta-eala-oliynyk-2026-05-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-18T18:35:34.553200+00:00
+============================================================
+
+--- [BIG LOSS] Market: Internationaux de Strasbourg: Marie Bouzkova vs Katerina Siniakova
+--- User: ferrariChampions2026 | Loss: $24,098 | Odds: 50.0%
+
+[TWEET]
+Someone just lost $24.1K on Polymarket.
+"Internationaux de Strasbourg: Marie Bouzkova vs Katerina Siniakova"
+ferrariChampions2026 has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-bouzkov-siniako-2026-05-18
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Internationaux de Strasbourg: Marie Bouzkova vs Katerina Siniakova
+--- User: 0x53757615 | Loss: $53,991 | Odds: 67.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x53757615  ·  Lost: $54.0K
+"Internationaux de Strasbourg: Marie Bouzkova vs Katerina Siniakova"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-bouzkov-siniako-2026-05-18
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Hamburg European Open: Marcos Giron vs Ben Shelton
+--- User: 0x53757615 | Loss: $13,465 | Odds: 47.6%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x53757615  ·  Lost: $13.5K
+"Hamburg European Open: Marcos Giron vs Ben Shelton"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-giron-shelton-2026-05-18
+
+────────────────────────────────────────
+

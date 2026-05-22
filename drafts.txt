@@ -91905,3 +91905,65 @@ https://polymarket.com/event/lib-gua1-cir-2026-05-21
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-22T09:45:02.870324+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: MIBR vs B8 (BO3) - CS Asia Championships Group B
+--- User: Taoli1 | Loss: $10,123 | Odds: 60.0%
+
+[TWEET]
+Someone just lost $10.1K on Polymarket.
+"Counter-Strike: MIBR vs B8 (BO3) - CS Asia Championships Group B"
+Taoli1 has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mibr-b8-2026-05-21
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Team Falcons vs Legacy (BO3) - CS Asia Championships Group A
+--- User: loitterer | Loss: $12,499 | Odds: 36.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: loitterer  ·  Lost: $12.5K
+"Counter-Strike: Team Falcons vs Legacy (BO3) - CS Asia Championships Group A"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-fal2-lgc-2026-05-21
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Team Falcons vs Legacy (BO3) - CS Asia Championships Group A
+--- User: 0x0dcf5B49627C5194805bD1AF846Fd0bd3388c556-1769755919166 | Loss: $10,500 | Odds: 35.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $10.5K.
+"Counter-Strike: Team Falcons vs Legacy (BO3) - CS Asia Championships Group A"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-fal2-lgc-2026-05-21
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: MIBR vs B8 - Map 2 Winner
+--- User: 0xa1facv | Loss: $11,450 | Odds: 74.5%
+
+[TWEET]
+$11.5K lost on Polymarket.
+0xa1facv was on the wrong side of "Counter-Strike: MIBR vs B8 - Map 2 Winner"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mibr-b8-2026-05-21
+
+────────────────────────────────────────
+

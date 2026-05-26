@@ -98222,3 +98222,38 @@ https://polymarket.com/event/atp-bublik-struff-2026-05-24
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-26T23:03:47.535397+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Roland Garros WTA: Kimberly Birrell vs Jessica Pegula
+--- User: voice-of-sport | Loss: $12,219 | Odds: 96.6%
+
+[TWEET]
+🐋 POLYMARKET HEARTBREAK
+voice-of-sport: peak entry 96.6% · lost $12.2K
+"Roland Garros WTA: Kimberly Birrell vs Jessica Pegula"
+The 1% strikes again.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-birrell-pegula-2026-05-24
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Roland Garros WTA: Victoria Mboko vs Nikola Bartunkova
+--- User: strike123 | Loss: $13,618 | Odds: 32.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: strike123  ·  Lost: $13.6K
+"Roland Garros WTA: Victoria Mboko vs Nikola Bartunkova"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-mboko-bartunk-2026-05-24
+
+────────────────────────────────────────
+

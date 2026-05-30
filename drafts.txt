@@ -102542,3 +102542,65 @@ https://polymarket.com/event/j1100-vva-hol-2026-05-30
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-30T14:07:40.258918+00:00
+============================================================
+
+--- [BIG LOSS] Market: Roland Garros WTA: Maria Sakkari vs Maja Chwalinska
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $12,402 | Odds: 43.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $12.4K.
+"Roland Garros WTA: Maria Sakkari vs Maja Chwalinska"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-sakkari-chwalin-2026-05-30
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Roland Garros WTA: Maria Sakkari vs Maja Chwalinska
+--- User: NiNo999 | Loss: $17,500 | Odds: 44.6%
+
+[TWEET]
+$17.5K lost on Polymarket.
+NiNo999 picked the wrong side of "Roland Garros WTA: Maria Sakkari vs Maja Chwalinska"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-sakkari-chwalin-2026-05-30
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: KBO: Kia Tigers vs. LG Twins
+--- User: udtus | Loss: $18,996 | Odds: 60.5%
+
+[TWEET]
+$19.0K lost on Polymarket.
+udtus was on the wrong side of "KBO: Kia Tigers vs. LG Twins"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/kbo-kia-lg-2026-05-30
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: Bilibili Gaming vs Team WE - Game 1 Winner
+--- User: SineNooneEI | Loss: $14,793 | Odds: 86.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: SineNooneEI  ·  Lost: $14.8K
+"LoL: Bilibili Gaming vs Team WE - Game 1 Winner"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-blg-we-2026-05-30
+
+────────────────────────────────────────
+

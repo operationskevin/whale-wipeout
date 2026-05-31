@@ -104610,3 +104610,65 @@ https://polymarket.com/event/mlb-sd-wsh-2026-05-31
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-31T23:21:46.435336+00:00
+============================================================
+
+--- [BIG LOSS] Market: San Francisco Giants vs. Colorado Rockies
+--- User: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Loss: $95,222 | Odds: 50.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $95.2K
+"San Francisco Giants vs. Colorado Rockies"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sf-col-2026-05-31
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: San Francisco Giants vs. Colorado Rockies
+--- User: texaskid | Loss: $10,747 | Odds: 49.0%
+
+[TWEET]
+Someone just lost $10.7K on Polymarket.
+"San Francisco Giants vs. Colorado Rockies"
+texaskid has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sf-col-2026-05-31
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Las Vegas Aces vs. Golden State Valkyries
+--- User: mooseborzoi | Loss: $11,443 | Odds: 47.0%
+
+[TWEET]
+$11.4K lost on Polymarket.
+mooseborzoi picked the wrong side of "Las Vegas Aces vs. Golden State Valkyries"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wnba-las-gsv-2026-05-31
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Las Vegas Aces vs. Golden State Valkyries
+--- User: 0x492442EaB586F242B53bDa933fD5dE859c8A3782-1766317541188 | Loss: $22,976 | Odds: 45.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $23.0K.
+"Las Vegas Aces vs. Golden State Valkyries"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wnba-las-gsv-2026-05-31
+
+────────────────────────────────────────
+

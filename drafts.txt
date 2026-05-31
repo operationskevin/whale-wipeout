@@ -103793,3 +103793,22 @@ https://polymarket.com/event/val-lev1-nrg-2026-05-30
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-05-31T12:24:58.160547+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will Botafogo FR win on 2026-05-30?
+--- User: RN1 | Loss: $21,534 | Odds: 69.0%
+
+[TWEET]
+RN1 went heavy on Polymarket and lost $21.5K.
+"Will Botafogo FR win on 2026-05-30?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/bra-bah-bot-2026-05-30
+
+────────────────────────────────────────
+

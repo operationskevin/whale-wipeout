@@ -106510,3 +106510,109 @@ https://polymarket.com/event/cs2-m80-lvg-2026-06-02
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-02T20:46:21.367646+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Will Elon Musk post 160-179 tweets from May 26 to June 2, 2026?
+--- User: 0x913f5F691Ce0a947CF60cD573CBdC7C66d8eC676-1774844074915 | Loss: $13,547 | Odds: 94.7%
+
+[TWEET]
+On Polymarket, an anonymous whale entered at odds as high as 94.7%.
+They lost $13.5K.
+"Will Elon Musk post 160-179 tweets from May 26 to June 2, 2026?"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/elon-musk-of-tweets-may-26-june-2
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will Croatia win on 2026-06-02?
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $58,377 | Odds: 31.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $58.4K.
+"Will Croatia win on 2026-06-02?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-hrv-bel-2026-06-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: MIBR vs TYLOO (BO1) - IEM Cologne Major Stage 1
+--- User: dsknadkasnkfjs | Loss: $16,352 | Odds: 86.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: dsknadkasnkfjs  ·  Lost: $16.4K
+"Counter-Strike: MIBR vs TYLOO (BO1) - IEM Cologne Major Stage 1"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-mibr-tyloo-2026-06-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Heroic vs Lynn Vision (BO1) - IEM Cologne Major Stage 1
+--- User: JhonAlexanderHinestroza | Loss: $12,873 | Odds: 82.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+JhonAlexanderHinestroza lost $12.9K
+"Counter-Strike: Heroic vs Lynn Vision (BO1) - IEM Cologne Major Stage 1"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-hero-lvg-2026-06-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: BetBoom Team vs Gaimin Gladiators (BO1) - IEM Cologne Major Stage 1
+--- User: 0x5966Db1fE50763C9e3C014d756369BAd07E1F804-1777648534241 | Loss: $18,963 | Odds: 27.0%
+
+[TWEET]
+$19.0K lost on Polymarket.
+an anonymous whale picked the wrong side of "Counter-Strike: BetBoom Team vs Gaimin Gladiators (BO1) - IEM Cologne Major Stage 1"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-bb3-gg5-2026-06-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Birmingham: Gabriela Knutson vs Joanna Garland
+--- User: 0x5d1d9cfd | Loss: $12,800 | Odds: 53.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+0x5d1d9cfd lost $12.8K
+"Birmingham: Gabriela Knutson vs Joanna Garland"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-knutson-garland-2026-06-01
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Centurion 2: Tuncay Duran vs Stefano Napolitano
+--- User: JRman555 - 12765 | Loss: $14,000 | Odds: 82.6%
+
+[TWEET]
+$14.0K lost on Polymarket.
+JRman555 - 12765 was on the wrong side of "Centurion 2: Tuncay Duran vs Stefano Napolitano"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-duran-napolit-2026-06-02
+
+────────────────────────────────────────
+

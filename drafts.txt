@@ -108494,3 +108494,336 @@ https://polymarket.com/event/wta-sherif-pedone-2026-06-03
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-04T22:14:47.786121+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Will Spain win on 2026-06-04?
+--- User: 0x5966Db1fE50763C9e3C014d756369BAd07E1F804-1777648534241 | Loss: $23,806 | Odds: 92.0%
+
+[TWEET]
+🐋 POLYMARKET HEARTBREAK
+an anonymous whale bought at odds as high as 92.0% and lost $23.8K.
+"Will Spain win on 2026-06-04?"
+Probability ≠ certainty. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-esp-irq-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will Spain win on 2026-06-04?
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $20,000 | Odds: 57.6%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $20.0K.
+"Will Spain win on 2026-06-04?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-esp-irq-2026-06-04
+
+────────────────────────────────────────
+
+--- [HEARTBREAK] Market: Will Spain vs. Iraq end in a draw?
+--- User: swisstony | Loss: $13,250 | Odds: 98.0%
+
+[TWEET]
+On Polymarket, swisstony entered at odds as high as 98.0%.
+They lost $13.2K.
+"Will Spain vs. Iraq end in a draw?"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-esp-irq-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $29,491 | Odds: 51.0%
+
+[TWEET]
+$29.5K lost on Polymarket.
+an anonymous whale was on the wrong side of "Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-tl1-hero-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1
+--- User: bossoskil1 | Loss: $24,587 | Odds: 52.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: bossoskil1  ·  Lost: $24.6K
+"Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-tl1-hero-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $22,828 | Odds: 53.0%
+
+[TWEET]
+$22.8K lost on Polymarket.
+an anonymous whale was on the wrong side of "Counter-Strike: Liquid vs Heroic (BO3) - IEM Cologne Major Stage 1"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-tl1-hero-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1
+--- User: reborn. | Loss: $11,974 | Odds: 41.0%
+
+[TWEET]
+$12.0K lost on Polymarket.
+reborn. picked the wrong side of "Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-m80-nrg-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $24,977 | Odds: 42.6%
+
+[TWEET]
+$25.0K lost on Polymarket.
+an anonymous whale was on the wrong side of "Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-m80-nrg-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1
+--- User: bossoskil1 | Loss: $123,108 | Odds: 42.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: bossoskil1  ·  Lost: $123.1K
+"Counter-Strike: M80 vs NRG (BO3) - IEM Cologne Major Stage 1"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-m80-nrg-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Baltimore Orioles vs. Boston Red Sox
+--- User: igetlitty | Loss: $13,183 | Odds: 53.0%
+
+[TWEET]
+$13.2K lost on Polymarket.
+igetlitty picked the wrong side of "Baltimore Orioles vs. Boston Red Sox"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-bal-bos-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: San Diego Padres vs. Philadelphia Phillies
+--- User: mooseborzoi | Loss: $13,586 | Odds: 40.0%
+
+[TWEET]
+$13.6K lost on Polymarket.
+mooseborzoi picked the wrong side of "San Diego Padres vs. Philadelphia Phillies"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sd-phi-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: GamerLegion vs BIG - Map 2 Winner
+--- User: redvinny | Loss: $14,108 | Odds: 75.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: redvinny  ·  Lost: $14.1K
+"Counter-Strike: GamerLegion vs BIG - Map 2 Winner"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-gl1-big5-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Perugia: Luca Nardi vs Remy Bertola
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $35,262 | Odds: 56.5%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $35.3K.
+"Perugia: Luca Nardi vs Remy Bertola"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-nardi-bertola-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: San Francisco Giants vs. Milwaukee Brewers
+--- User: Skyline88 | Loss: $15,352 | Odds: 56.2%
+
+[TWEET]
+$15.4K lost on Polymarket.
+Skyline88 picked the wrong side of "San Francisco Giants vs. Milwaukee Brewers"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sf-mil-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: San Francisco Giants vs. Milwaukee Brewers
+--- User: Pwaddler | Loss: $35,197 | Odds: 64.0%
+
+[TWEET]
+Pwaddler went heavy on Polymarket and lost $35.2K.
+"San Francisco Giants vs. Milwaukee Brewers"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sf-mil-2026-06-04
+
+────────────────────────────────────────
+
+--- [HEARTBREAK] Market: Will France win on 2026-06-04?
+--- User: GoalLineGhost | Loss: $19,660 | Odds: 90.0%
+
+[TWEET]
+🐋 POLYMARKET HEARTBREAK
+GoalLineGhost bought at odds as high as 90.0% and lost $19.7K.
+"Will France win on 2026-06-04?"
+Probability ≠ certainty. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will France win on 2026-06-04?
+--- User: redvinny | Loss: $43,163 | Odds: 89.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: redvinny  ·  Lost: $43.2K
+"Will France win on 2026-06-04?"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will France win on 2026-06-04?
+--- User: PMM888 | Loss: $20,505 | Odds: 83.3%
+
+[TWEET]
+Someone just lost $20.5K on Polymarket.
+"Will France win on 2026-06-04?"
+PMM888 has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will France win on 2026-06-04?
+--- User: WarewaPain | Loss: $21,880 | Odds: 81.0%
+
+[TWEET]
+Someone just lost $21.9K on Polymarket.
+"Will France win on 2026-06-04?"
+WarewaPain has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will France win on 2026-06-04?
+--- User: 0x4ca135150c0492539faf1B50721E74aC2F34fA35-1761457915161 | Loss: $11,545 | Odds: 81.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $11.5K.
+"Will France win on 2026-06-04?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will France win on 2026-06-04?
+--- User: rabby10 | Loss: $14,940 | Odds: 77.0%
+
+[TWEET]
+$14.9K lost on Polymarket.
+rabby10 was on the wrong side of "Will France win on 2026-06-04?"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [HEARTBREAK] Market: Will Côte d'Ivoire win on 2026-06-04?
+--- User: swisstony | Loss: $20,316 | Odds: 95.0%
+
+[TWEET]
+On Polymarket, swisstony entered at odds as high as 95.0%.
+They lost $20.3K.
+"Will Côte d'Ivoire win on 2026-06-04?"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fif-fra-civ-2026-06-04
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Makarska: Petra Marcinko vs Barbora Palicova
+--- User: angelat0 | Loss: $18,528 | Odds: 54.4%
+
+[TWEET]
+$18.5K lost on Polymarket.
+angelat0 was on the wrong side of "Makarska: Petra Marcinko vs Barbora Palicova"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-marcink-palicov-2026-06-04
+
+────────────────────────────────────────
+

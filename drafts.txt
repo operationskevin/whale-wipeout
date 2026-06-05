@@ -109082,3 +109082,22 @@ https://polymarket.com/event/mlb-tor-atl-2026-06-04
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-05T11:04:46.949334+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Centurion 2: Alexander Donski vs Tuncay Duran
+--- User: swisstony | Loss: $11,217 | Odds: 98.0%
+
+[TWEET]
+On Polymarket, swisstony entered at odds as high as 98.0%.
+They lost $11.2K.
+"Centurion 2: Alexander Donski vs Tuncay Duran"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-donski-duran-2026-06-05
+
+────────────────────────────────────────
+

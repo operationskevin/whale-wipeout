@@ -111071,3 +111071,22 @@ https://polymarket.com/event/ufc-pri-che3-2026-06-06
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-07T00:19:20.418453+00:00
+============================================================
+
+--- [BIG LOSS] Market: UFC Fight Night: Matt Schnell vs. Alessandro Costa (Catchweight, Prelims)
+--- User: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Loss: $21,392 | Odds: 21.0%
+
+[TWEET]
+$21.4K lost on Polymarket.
+an anonymous whale picked the wrong side of "UFC Fight Night: Matt Schnell vs. Alessandro Costa (Catchweight, Prelims)"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/ufc-mat-ale35-2026-06-06
+
+────────────────────────────────────────
+

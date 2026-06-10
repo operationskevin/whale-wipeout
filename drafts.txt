@@ -114445,3 +114445,23 @@ https://polymarket.com/event/val-ge1-fs1-2026-06-09
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-10T00:32:16.024156+00:00
+============================================================
+
+--- [BIG LOSS] Market: Tucuman: Juan Estevez vs Matias Soto
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $24,987 | Odds: 58.7%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $25.0K
+"Tucuman: Juan Estevez vs Matias Soto"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-estevez-soto-2026-06-08
+
+────────────────────────────────────────
+

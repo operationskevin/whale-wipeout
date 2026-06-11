@@ -116365,3 +116365,64 @@ https://polymarket.com/event/atp-landalu-fritz-2026-06-10
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-11T21:20:17.298688+00:00
+============================================================
+
+--- [BIG LOSS] Market: St. Louis Cardinals vs. New York Mets
+--- User: 0x53757615 | Loss: $16,843 | Odds: 57.0%
+
+[TWEET]
+0x53757615 went heavy on Polymarket and lost $16.8K.
+"St. Louis Cardinals vs. New York Mets"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-stl-nym-2026-06-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: St. Louis Cardinals vs. New York Mets
+--- User: 0x8139E8F571eb4372ecc8498771f6a319Cb5bBe43-1767828467116 | Loss: $172,000 | Odds: 43.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $172.0K.
+"St. Louis Cardinals vs. New York Mets"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-stl-nym-2026-06-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Arizona Diamondbacks vs. Miami Marlins
+--- User: Feromont | Loss: $18,927 | Odds: 47.0%
+
+[TWEET]
+Feromont went heavy on Polymarket and lost $18.9K.
+"Arizona Diamondbacks vs. Miami Marlins"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-ari-mia-2026-06-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Team Falcons vs G2 - Map 1 Winner
+--- User: Blueberry1337 | Loss: $22,980 | Odds: 56.0%
+
+[TWEET]
+$23.0K lost on Polymarket.
+Blueberry1337 was on the wrong side of "Counter-Strike: Team Falcons vs G2 - Map 1 Winner"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-fal2-g2-2026-06-11
+
+────────────────────────────────────────
+

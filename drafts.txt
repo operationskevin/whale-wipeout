@@ -118474,3 +118474,50 @@ https://polymarket.com/event/atp-landalu-huesler-2026-06-13
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-13T17:08:22.731754+00:00
+============================================================
+
+--- [HEARTBREAK] Market: HSBC Championships, Qualification: Johannus Monday vs Giovanni Mpetshi Perricard
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $24,000 | Odds: 90.5%
+
+[TWEET]
+On Polymarket, an anonymous whale entered at odds as high as 90.5%.
+They lost $24.0K.
+"HSBC Championships, Qualification: Johannus Monday vs Giovanni Mpetshi Perricard"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-monday-perrica-2026-06-13
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Bratislava: Federico Cina vs Taro Daniel
+--- User: 0x8a3aB8120807bD64a3De48695110e390fa2ceB9a-1771005965025 | Loss: $10,872 | Odds: 53.8%
+
+[TWEET]
+$10.9K lost on Polymarket.
+an anonymous whale was on the wrong side of "Bratislava: Federico Cina vs Taro Daniel"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-cina-daniel-2026-06-13
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: Team WE vs Bilibili Gaming - Game 4 Winner
+--- User: Sunshine.Smile | Loss: $30,809 | Odds: 26.0%
+
+[TWEET]
+Sunshine.Smile went heavy on Polymarket and lost $30.8K.
+"LoL: Team WE vs Bilibili Gaming - Game 4 Winner"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-we-blg-2026-06-13
+
+────────────────────────────────────────
+

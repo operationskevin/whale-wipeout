@@ -123621,3 +123621,22 @@ https://polymarket.com/event/cs2-k271-100t-2026-06-16
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-06-16T23:20:19.259244+00:00
+============================================================
+
+--- [HEARTBREAK] Market: Exact Score: France 3 - 1 Senegal?
+--- User: RN1 | Loss: $33,810 | Odds: 97.0%
+
+[TWEET]
+RN1 was nearly certain on Polymarket.
+Peak odds: 97.0%. Total lost: $33.8K.
+"Exact Score: France 3 - 1 Senegal?"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/fifwc-fra-sen-2026-06-16-exact-score
+
+────────────────────────────────────────
+

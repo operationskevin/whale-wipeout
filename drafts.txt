@@ -184836,3 +184836,50 @@ https://polymarket.com/event/den-ran-sif-2026-07-27
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-07-27T22:00:16.797526+00:00
+============================================================
+
+--- [BIG LOSS] Market: Seattle Mariners vs. Texas Rangers
+--- User: 0xFE5428C1B7faE9F29CC5cE3B393d9a77251541D6-1734980249939 | Loss: $35,613 | Odds: 55.0%
+
+[TWEET]
+Someone just lost $35.6K on Polymarket.
+"Seattle Mariners vs. Texas Rangers"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sea-tex-2026-07-27
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Seattle Mariners vs. Texas Rangers
+--- User: pilimili | Loss: $11,000 | Odds: 55.0%
+
+[TWEET]
+$11.0K lost on Polymarket.
+pilimili picked the wrong side of "Seattle Mariners vs. Texas Rangers"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-sea-tex-2026-07-27
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will BK Hacken win on 2026-07-27?
+--- User: 0x076daa87 | Loss: $14,501 | Odds: 52.0%
+
+[TWEET]
+0x076daa87 went heavy on Polymarket and lost $14.5K.
+"Will BK Hacken win on 2026-07-27?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/swe-hac-aik-2026-07-27
+
+────────────────────────────────────────
+

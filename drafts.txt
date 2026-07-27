@@ -184502,3 +184502,23 @@ https://polymarket.com/event/mlb-nyy-phi-2026-07-26
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-07-27T08:19:16.557913+00:00
+============================================================
+
+--- [BIG LOSS] Market: Los Cabos Open, Qualification: Alex Hernandez vs Alan Magadan
+--- User: 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Loss: $12,106 | Odds: 38.3%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $12.1K
+"Los Cabos Open, Qualification: Alex Hernandez vs Alan Magadan"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-hernand-magadan-2026-07-26
+
+────────────────────────────────────────
+

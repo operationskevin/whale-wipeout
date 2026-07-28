@@ -184883,3 +184883,22 @@ https://polymarket.com/event/swe-hac-aik-2026-07-27
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-07-28T00:56:40.462827+00:00
+============================================================
+
+--- [BIG LOSS] Market: The Memphis Classic: Talia Gibson vs Tatjana Maria
+--- User: 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | Loss: $72,000 | Odds: 69.8%
+
+[TWEET]
+$72.0K lost on Polymarket.
+an anonymous whale picked the wrong side of "The Memphis Classic: Talia Gibson vs Tatjana Maria"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-gibson-maria-2026-07-26
+
+────────────────────────────────────────
+

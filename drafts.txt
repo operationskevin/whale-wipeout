@@ -185721,3 +185721,78 @@ https://polymarket.com/event/wta-janicij-sobolie-2026-07-28
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-07-28T17:15:13.155452+00:00
+============================================================
+
+--- [BIG LOSS] Market: Bonn: Clement Tabur vs Henri Squire
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $19,062 | Odds: 24.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $19.1K.
+"Bonn: Clement Tabur vs Henri Squire"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-tabur-squire-2026-07-27
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Bonn: Clement Tabur vs Henri Squire
+--- User: ColeDollarScholar | Loss: $20,959 | Odds: 72.0%
+
+[TWEET]
+ColeDollarScholar went heavy on Polymarket and lost $21.0K.
+"Bonn: Clement Tabur vs Henri Squire"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-tabur-squire-2026-07-27
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: The Hundred, Women: Sunrisers Leeds vs Manchester Super Giants
+--- User: NonTificant | Loss: $12,353 | Odds: 85.0%
+
+[TWEET]
+$12.4K lost on Polymarket.
+NonTificant picked the wrong side of "The Hundred, Women: Sunrisers Leeds vs Manchester Super Giants"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/crichundredw-sun-man-2026-07-28
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: San Marino: Francesco Maestrelli vs Lukas Neumayer
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $22,008 | Odds: 32.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $22.0K.
+"San Marino: Francesco Maestrelli vs Lukas Neumayer"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-maestre-neumaye-2026-07-27
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Targu Mures: Miriam Bulgaru vs Carole Monnet
+--- User: 0x5453da42Cd33b0ED6B796d03d2395f278C779F9F-1773916108628 | Loss: $26,207 | Odds: 25.0%
+
+[TWEET]
+Someone just lost $26.2K on Polymarket.
+"Targu Mures: Miriam Bulgaru vs Carole Monnet"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-bulgaru-monnet-2026-07-28
+
+────────────────────────────────────────
+

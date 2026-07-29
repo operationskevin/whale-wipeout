@@ -187071,3 +187071,36 @@ https://polymarket.com/event/atp-zheng-landalu-2026-07-27
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-07-29T12:45:35.339598+00:00
+============================================================
+
+--- [BIG LOSS] Market: Liberec: Jan Kumstat vs Thiago Seyboth Wild
+--- User: 0xe11Ff8cd2718F51a4d9403D166c20eaAAbE253F4-1777047101622 | Loss: $21,589 | Odds: 45.6%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $21.6K.
+"Liberec: Jan Kumstat vs Thiago Seyboth Wild"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-kumstat-wild-2026-07-29
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Liberec: Jan Kumstat vs Thiago Seyboth Wild
+--- User: neutralwave23 | Loss: $14,245 | Odds: 64.7%
+
+[TWEET]
+neutralwave23 went heavy on Polymarket and lost $14.2K.
+"Liberec: Jan Kumstat vs Thiago Seyboth Wild"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-kumstat-wild-2026-07-29
+
+────────────────────────────────────────
+

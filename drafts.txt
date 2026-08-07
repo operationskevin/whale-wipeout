@@ -200660,3 +200660,36 @@ https://polymarket.com/event/lol-lgd-tt-2026-08-06
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-07T00:57:04.500565+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will CA Unión win on 2026-08-06?
+--- User: VD721lsj4938Dk388 | Loss: $14,529 | Odds: 61.0%
+
+[TWEET]
+$14.5K lost on Polymarket.
+VD721lsj4938Dk388 was on the wrong side of "Will CA Unión win on 2026-08-06?"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/arg-uni-lan-2026-08-06
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: National Bank Open: Jiri Lehecka vs Alexander Blockx
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $22,000 | Odds: 18.5%
+
+[TWEET]
+$22.0K lost on Polymarket.
+an anonymous whale was on the wrong side of "National Bank Open: Jiri Lehecka vs Alexander Blockx"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-lehecka-blockx-2026-08-06
+
+────────────────────────────────────────
+

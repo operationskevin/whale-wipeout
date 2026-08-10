@@ -205571,3 +205571,36 @@ https://polymarket.com/event/lec-ame-por-2026-08-09
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-10T10:59:45.639342+00:00
+============================================================
+
+--- [BIG LOSS] Market: Astana: Semen Pankin vs Dominik Palan
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $12,798 | Odds: 41.9%
+
+[TWEET]
+Someone just lost $12.8K on Polymarket.
+"Astana: Semen Pankin vs Dominik Palan"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-pankin-palan-2026-08-10
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Astana: Semen Pankin vs Dominik Palan
+--- User: 0x6982049c65e98606f65A0CE71fDb9b61296dA165-1777135114945 | Loss: $10,961 | Odds: 40.0%
+
+[TWEET]
+$11.0K lost on Polymarket.
+an anonymous whale was on the wrong side of "Astana: Semen Pankin vs Dominik Palan"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-pankin-palan-2026-08-10
+
+────────────────────────────────────────
+

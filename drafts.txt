@@ -206814,3 +206814,65 @@ https://polymarket.com/event/lol-hle1-dnf-2026-08-11
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-11T18:42:50.671241+00:00
+============================================================
+
+--- [BIG LOSS] Market: Cincinnati Open, Qualification: Alexander Shevchenko vs Pablo Llamas Ruiz
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $21,888 | Odds: 45.0%
+
+[TWEET]
+Someone just lost $21.9K on Polymarket.
+"Cincinnati Open, Qualification: Alexander Shevchenko vs Pablo Llamas Ruiz"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-shevche-ruiz-2026-08-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Cincinnati Open, Qualification: Lilli Tagger vs Lin Zhu
+--- User: UpTheBlues | Loss: $19,124 | Odds: 49.0%
+
+[TWEET]
+$19.1K lost on Polymarket.
+UpTheBlues picked the wrong side of "Cincinnati Open, Qualification: Lilli Tagger vs Lin Zhu"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-tagger-zhu-2026-08-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: National Bank Open: Luciano Darderi vs Brandon Nakashima
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $14,000 | Odds: 29.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $14.0K
+"National Bank Open: Luciano Darderi vs Brandon Nakashima"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-darderi-nakashi-2026-08-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: The Hundred, Women: Manchester Super Giants vs Sunrisers Leeds
+--- User: NonTificant | Loss: $11,631 | Odds: 48.0%
+
+[TWEET]
+NonTificant went heavy on Polymarket and lost $11.6K.
+"The Hundred, Women: Manchester Super Giants vs Sunrisers Leeds"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/crichundredw-man-sun-2026-08-11
+
+────────────────────────────────────────
+

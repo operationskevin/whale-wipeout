@@ -206876,3 +206876,50 @@ https://polymarket.com/event/crichundredw-man-sun-2026-08-11
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-11T19:59:02.007337+00:00
+============================================================
+
+--- [BIG LOSS] Market: Will FK Bodø/Glimt win on 2026-08-11?
+--- User: 0x076daa87 | Loss: $15,749 | Odds: 75.1%
+
+[TWEET]
+0x076daa87 went heavy on Polymarket and lost $15.7K.
+"Will FK Bodø/Glimt win on 2026-08-11?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/ucl-bog-usg-2026-08-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will FK Bodø/Glimt win on 2026-08-11?
+--- User: quavoo | Loss: $11,695 | Odds: 60.0%
+
+[TWEET]
+quavoo went heavy on Polymarket and lost $11.7K.
+"Will FK Bodø/Glimt win on 2026-08-11?"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/ucl-bog-usg-2026-08-11
+
+────────────────────────────────────────
+
+--- [HEARTBREAK] Market: Cincinnati Open, Qualification: Christopher O'Connell vs Dane Sweeny
+--- User: ...............................lala | Loss: $26,327 | Odds: 91.0%
+
+[TWEET]
+On Polymarket, ...............................lala entered at odds as high as 91.0%.
+They lost $26.3K.
+"Cincinnati Open, Qualification: Christopher O'Connell vs Dane Sweeny"
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-oconnel-sweeny-2026-08-11
+
+────────────────────────────────────────
+

@@ -217663,3 +217663,23 @@ https://polymarket.com/event/cs2-lgc-mibr-2026-08-16
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-16T22:02:57.324890+00:00
+============================================================
+
+--- [BIG LOSS] Market: Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $10,199 | Odds: 39.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $10.2K
+"Cincinnati Open: Andrey Rublev vs Pablo Carreno Busta"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-rublev-busta-2026-08-16
+
+────────────────────────────────────────
+

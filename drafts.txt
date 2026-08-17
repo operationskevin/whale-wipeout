@@ -218431,3 +218431,22 @@ https://polymarket.com/event/mex-tij-caz-2026-08-16
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-17T15:46:35.229681+00:00
+============================================================
+
+--- [BIG LOSS] Market: ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans
+--- User: 0xE91171f655bE1568e4c63f29663c0028649e3d4e-1765651946286 | Loss: $14,367 | Odds: 72.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $14.4K.
+"ITF M25 Idanha-a-Nova 2 Men: Artem Alekseychuk vs Tiago Boschmans"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/itf-aleksey-boschma-2026-08-17
+
+────────────────────────────────────────
+

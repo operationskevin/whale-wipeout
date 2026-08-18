@@ -219503,3 +219503,36 @@ https://polymarket.com/event/lol-dnsc-nsea-2026-08-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-18T15:57:34.169952+00:00
+============================================================
+
+--- [BIG LOSS] Market: Prague 2: Maxim Mrva vs Nerman Fatic
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $16,000 | Odds: 55.8%
+
+[TWEET]
+$16.0K lost on Polymarket.
+an anonymous whale was on the wrong side of "Prague 2: Maxim Mrva vs Nerman Fatic"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-mrva-fatic-2026-08-18
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Prague 2: Maxim Mrva vs Nerman Fatic
+--- User: bigoon | Loss: $16,083 | Odds: 55.0%
+
+[TWEET]
+$16.1K lost on Polymarket.
+bigoon picked the wrong side of "Prague 2: Maxim Mrva vs Nerman Fatic"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-mrva-fatic-2026-08-18
+
+────────────────────────────────────────
+

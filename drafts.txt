@@ -219699,3 +219699,22 @@ https://polymarket.com/event/atp-rublev-borges-2026-08-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-18T19:06:44.053792+00:00
+============================================================
+
+--- [BIG LOSS] Market: Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $18,000 | Odds: 22.0%
+
+[TWEET]
+$18.0K lost on Polymarket.
+an anonymous whale was on the wrong side of "Cincinnati Open: Taylor Fritz vs Daniel Merida Aguilar"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-fritz-aguilar-2026-08-18
+
+────────────────────────────────────────
+

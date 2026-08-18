@@ -219465,3 +219465,22 @@ https://polymarket.com/event/itf-hanleil-osminki-2026-08-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-18T10:48:24.966947+00:00
+============================================================
+
+--- [BIG LOSS] Market: Sion: Tommaso Compagnucci vs Max Dahlin
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $14,800 | Odds: 24.4%
+
+[TWEET]
+$14.8K lost on Polymarket.
+an anonymous whale picked the wrong side of "Sion: Tommaso Compagnucci vs Max Dahlin"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-compagn-dahlin-2026-08-17
+
+────────────────────────────────────────
+

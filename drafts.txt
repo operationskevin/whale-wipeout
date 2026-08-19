@@ -220482,3 +220482,22 @@ https://polymarket.com/event/wta-bouzkov-jovic-2026-08-18
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-19T05:50:34.539901+00:00
+============================================================
+
+--- [BIG LOSS] Market: Chicago White Sox vs. Chicago Cubs
+--- User: User1244322 | Loss: $11,010 | Odds: 32.0%
+
+[TWEET]
+$11.0K lost on Polymarket.
+User1244322 was on the wrong side of "Chicago White Sox vs. Chicago Cubs"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-cws-chc-2026-08-18
+
+────────────────────────────────────────
+

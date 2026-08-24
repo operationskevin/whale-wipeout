@@ -232363,3 +232363,51 @@ https://polymarket.com/event/atp-donald-hassan-2026-08-24
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-24T14:14:52.358405+00:00
+============================================================
+
+--- [BIG LOSS] Market: Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius
+--- User: 0x076daa87 | Loss: $12,660 | Odds: 73.0%
+
+[TWEET]
+Someone just lost $12.7K on Polymarket.
+"Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius"
+0x076daa87 has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-torr-paldani-2026-08-24
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius
+--- User: ferrariChampions2026 | Loss: $13,630 | Odds: 77.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: ferrariChampions2026  ·  Lost: $13.6K
+"Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-torr-paldani-2026-08-24
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $14,267 | Odds: 76.0%
+
+[TWEET]
+$14.3K lost on Polymarket.
+an anonymous whale was on the wrong side of "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-ntr-forzer-2026-08-24
+
+────────────────────────────────────────
+

@@ -233938,3 +233938,37 @@ https://polymarket.com/event/atp-antoniu-searle-2026-08-25
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-25T18:00:00.100885+00:00
+============================================================
+
+--- [BIG LOSS] Market: US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany
+--- User: 11vsldfdsgfkjgos | Loss: $56,076 | Odds: 72.9%
+
+[TWEET]
+$56.1K lost on Polymarket.
+11vsldfdsgfkjgos picked the wrong side of "US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-burrage-marista-2026-08-25
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $19,304 | Odds: 44.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $19.3K
+"Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-1win-nemi1-2026-08-25
+
+────────────────────────────────────────
+

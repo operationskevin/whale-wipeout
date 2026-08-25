@@ -233647,3 +233647,22 @@ https://polymarket.com/event/mlb-cin-sf-2026-08-24
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-08-25T05:57:30.793585+00:00
+============================================================
+
+--- [BIG LOSS] Market: Philadelphia Phillies vs. Seattle Mariners
+--- User: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Loss: $62,473 | Odds: 52.0%
+
+[TWEET]
+$62.5K lost on Polymarket.
+an anonymous whale was on the wrong side of "Philadelphia Phillies vs. Seattle Mariners"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-phi-sea-2026-08-24
+
+────────────────────────────────────────
+

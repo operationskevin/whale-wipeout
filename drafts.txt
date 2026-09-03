@@ -247238,3 +247238,80 @@ https://polymarket.com/event/mlb-nyy-laa-2026-09-02
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-03T11:35:43.102965+00:00
+============================================================
+
+--- [BIG LOSS] Market: Plovdiv 3: Federico Iannaccone vs Maxim Mrva
+--- User: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Loss: $14,529 | Odds: 85.0%
+
+[TWEET]
+Someone just lost $14.5K on Polymarket.
+"Plovdiv 3: Federico Iannaccone vs Maxim Mrva"
+an anonymous whale has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-iannacc-mrva-2026-09-03
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: 1st Half Spread: CF América (-1.5)
+--- User: UpTheBlues | Loss: $12,463 | Odds: 50.0%
+
+[TWEET]
+$12.5K lost on Polymarket.
+UpTheBlues was on the wrong side of "1st Half Spread: CF América (-1.5)"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lec-ame-mon-2026-09-02-more-markets
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will CF Monterrey win on 2026-09-02?
+--- User: kekasaur | Loss: $23,043 | Odds: 32.0%
+
+[TWEET]
+$23.0K lost on Polymarket.
+kekasaur picked the wrong side of "Will CF Monterrey win on 2026-09-02?"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lec-ame-mon-2026-09-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Will CF América win on 2026-09-02?
+--- User: 0x076daa87 | Loss: $17,345 | Odds: 43.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x076daa87  ·  Lost: $17.3K
+"Will CF América win on 2026-09-02?"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lec-ame-mon-2026-09-02
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Zhangjiagang: Bernard Tomic vs Kasidit Samrej
+--- User: 0x5F659BcCBC353dBf7BcdffDEE73beE60bB482036-1780496231400 | Loss: $12,000 | Odds: 43.4%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $12.0K
+"Zhangjiagang: Bernard Tomic vs Kasidit Samrej"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-tomic-samrej-2026-09-02
+
+────────────────────────────────────────
+

@@ -247363,3 +247363,38 @@ https://polymarket.com/event/atp-balshaw-muller-2026-09-03
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-03T19:23:14.149801+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: B8 vs HOTU - Map 2 Winner
+--- User: 0x99a093771ad58bcfc3023cd75566415f | Loss: $25,924 | Odds: 73.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $25.9K
+"Counter-Strike: B8 vs HOTU - Map 2 Winner"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-b8-hotu-2026-09-03
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Nuclear TigeRES vs Eternal Fire - Map 1 Winner
+--- User: 0x99a093771ad58bcfc3023cd75566415f | Loss: $24,525 | Odds: 90.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $24.5K
+"Counter-Strike: Nuclear TigeRES vs Eternal Fire - Map 1 Winner"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-ntr-ef1-2026-09-03
+
+────────────────────────────────────────
+

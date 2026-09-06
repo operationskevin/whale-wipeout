@@ -250843,3 +250843,64 @@ https://polymarket.com/event/mlb-det-cle-2026-09-06
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-06T23:01:22.136425+00:00
+============================================================
+
+--- [BIG LOSS] Market: New York Yankees vs. San Diego Padres
+--- User: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Loss: $13,551 | Odds: 17.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $13.6K.
+"New York Yankees vs. San Diego Padres"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-nyy-sd-2026-09-06
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Valorant: 100 Thieves vs LOUD (BO5) - VCT Americas Stage 2 Playoffs
+--- User: nigiri99 | Loss: $14,143 | Odds: 35.0%
+
+[TWEET]
+$14.1K lost on Polymarket.
+nigiri99 was on the wrong side of "Valorant: 100 Thieves vs LOUD (BO5) - VCT Americas Stage 2 Playoffs"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/val-100t1-loud-2026-09-06
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: Shopify Rebellion vs FlyQuest - Game 2 Winner
+--- User: BrotherObama | Loss: $19,000 | Odds: 44.8%
+
+[TWEET]
+Someone just lost $19.0K on Polymarket.
+"LoL: Shopify Rebellion vs FlyQuest - Game 2 Winner"
+BrotherObama has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-sr-fly-2026-09-06
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: Shopify Rebellion vs FlyQuest (BO3) - LCS Regular Season
+--- User: BrotherObama | Loss: $31,800 | Odds: 36.0%
+
+[TWEET]
+Someone just lost $31.8K on Polymarket.
+"LoL: Shopify Rebellion vs FlyQuest (BO3) - LCS Regular Season"
+BrotherObama has left the building. 👻
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-sr-fly-2026-09-06
+
+────────────────────────────────────────
+

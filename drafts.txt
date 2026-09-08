@@ -251984,3 +251984,98 @@ https://polymarket.com/event/cs2-lgc-mgc-2026-09-07
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-08T14:25:51.347648+00:00
+============================================================
+
+--- [BIG LOSS] Market: Genoa: Pedro Martinez vs Francesco Forti
+--- User: 0x78becf0a | Loss: $30,000 | Odds: 41.4%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x78becf0a  ·  Lost: $30.0K
+"Genoa: Pedro Martinez vs Francesco Forti"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-martine-forti-2026-09-08
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Istanbul 3: Mert Alkaya vs Tiago Torres
+--- User: HMLSF | Loss: $18,425 | Odds: 60.8%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: HMLSF  ·  Lost: $18.4K
+"Istanbul 3: Mert Alkaya vs Tiago Torres"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-alkaya-torre-2026-09-07
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Cassis: Gauthier Onclin vs Raphael Perot
+--- User: HMLSF | Loss: $11,053 | Odds: 26.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: HMLSF  ·  Lost: $11.1K
+"Cassis: Gauthier Onclin vs Raphael Perot"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-onclin-perot-2026-09-07
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Cassis: Gauthier Onclin vs Raphael Perot
+--- User: 0x78becf0a | Loss: $15,000 | Odds: 54.4%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: 0x78becf0a  ·  Lost: $15.0K
+"Cassis: Gauthier Onclin vs Raphael Perot"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-onclin-perot-2026-09-07
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner
+--- User: Diabolical-Prize | Loss: $22,549 | Odds: 37.6%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+Diabolical-Prize lost $22.5K
+"LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-ig1-lgd-2026-09-08
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Antalya 4: Samira De Stefano vs Eva Vedder
+--- User: HomeRunHazard | Loss: $30,303 | Odds: 68.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: HomeRunHazard  ·  Lost: $30.3K
+"Antalya 4: Samira De Stefano vs Eva Vedder"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-stefano-vedder-2026-09-08
+
+────────────────────────────────────────
+

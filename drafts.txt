@@ -255230,3 +255230,66 @@ https://polymarket.com/event/atp-kolar-barrena-2026-09-11
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-11T19:58:37.274060+00:00
+============================================================
+
+--- [BIG LOSS] Market: LoL: GIANTX vs Natus Vincere - Game 2 Winner
+--- User: 0x6ac5BB06A9Eb05641fD5e82640268b92f3Ab4B6 | Loss: $28,146 | Odds: 58.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $28.1K
+"LoL: GIANTX vs Natus Vincere - Game 2 Winner"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-gx-navi-2026-09-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Fluxo W7M vs Back to Back  (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $11,342 | Odds: 40.0%
+
+[TWEET]
+$11.3K lost on Polymarket.
+an anonymous whale was on the wrong side of "Counter-Strike: Fluxo W7M vs Back to Back  (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-fxw7-backto-2026-09-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: WBT vs SAW (BO3) - Roman Imperium Cup Playoffs
+--- User: Diabolical-Prize | Loss: $10,750 | Odds: 43.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: Diabolical-Prize  ·  Lost: $10.8K
+"Counter-Strike: WBT vs SAW (BO3) - Roman Imperium Cup Playoffs"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-wbt-saw2-2026-09-11
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: WBT vs SAW (BO3) - Roman Imperium Cup Playoffs
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $18,164 | Odds: 43.0%
+
+[TWEET]
+$18.2K lost on Polymarket.
+an anonymous whale was on the wrong side of "Counter-Strike: WBT vs SAW (BO3) - Roman Imperium Cup Playoffs"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-wbt-saw2-2026-09-11
+
+────────────────────────────────────────
+

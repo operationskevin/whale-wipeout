@@ -256288,3 +256288,65 @@ https://polymarket.com/event/mlb-col-det-2026-09-12
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-12T23:12:18.404346+00:00
+============================================================
+
+--- [BIG LOSS] Market: Sao Paulo Open, Qualification: Victoria Bosio vs Lizette Cabrera
+--- User: RN1 | Loss: $18,587 | Odds: 77.8%
+
+[TWEET]
+RN1 went heavy on Polymarket and lost $18.6K.
+"Sao Paulo Open, Qualification: Victoria Bosio vs Lizette Cabrera"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-bosio-cabrera-2026-09-12
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Cleveland Guardians vs. Minnesota Twins
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $12,170 | Odds: 32.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $12.2K
+"Cleveland Guardians vs. Minnesota Twins"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/mlb-cle-min-2026-09-12
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Counter-Strike: Liquid vs Voca (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs
+--- User: RN1 | Loss: $11,385 | Odds: 67.0%
+
+[TWEET]
+RN1 went heavy on Polymarket and lost $11.4K.
+"Counter-Strike: Liquid vs Voca (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-tl1-voc-2026-09-12
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card)
+--- User: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Loss: $55,931 | Odds: 72.0%
+
+[TWEET]
+$55.9K lost on Polymarket.
+an anonymous whale picked the wrong side of "Noche UFC: Alexa Grasso vs. Manon Fiorot (Women's Flyweight, Main Card)"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/ufc-ale17-man3-2026-09-12
+
+────────────────────────────────────────
+

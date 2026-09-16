@@ -258289,3 +258289,78 @@ https://polymarket.com/event/wta-ruggeri-papamic-2026-09-16
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-16T18:21:11.226731+00:00
+============================================================
+
+--- [BIG LOSS] Market: Sao Paulo Open: Mary Stoiana vs Claire Liu
+--- User: HMLSF | Loss: $65,474 | Odds: 40.0%
+
+[TWEET]
+$65.5K lost on Polymarket.
+HMLSF was on the wrong side of "Sao Paulo Open: Mary Stoiana vs Claire Liu"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-stoiana-liu-2026-09-14
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Sao Paulo Open: Suzan Lamens vs Carolina M. Alves
+--- User: HMLSF | Loss: $101,578 | Odds: 79.0%
+
+[TWEET]
+$101.6K lost on Polymarket.
+HMLSF was on the wrong side of "Sao Paulo Open: Suzan Lamens vs Carolina M. Alves"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-lamens-alves-2026-09-14
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Sao Paulo Open: Suzan Lamens vs Carolina M. Alves
+--- User: 0x076daa87 | Loss: $15,370 | Odds: 39.7%
+
+[TWEET]
+0x076daa87 went heavy on Polymarket and lost $15.4K.
+"Sao Paulo Open: Suzan Lamens vs Carolina M. Alves"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-lamens-alves-2026-09-14
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Valencia: Joelle Steur vs Francesca Curmi
+--- User: HMLSF | Loss: $46,246 | Odds: 66.0%
+
+[TWEET]
+$46.2K lost on Polymarket.
+HMLSF was on the wrong side of "Valencia: Joelle Steur vs Francesca Curmi"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-steur-curmi-2026-09-16
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Valencia: Joelle Steur vs Francesca Curmi
+--- User: UpTheBlues | Loss: $13,979 | Odds: 79.0%
+
+[TWEET]
+$14.0K lost on Polymarket.
+UpTheBlues picked the wrong side of "Valencia: Joelle Steur vs Francesca Curmi"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-steur-curmi-2026-09-16
+
+────────────────────────────────────────
+

@@ -259876,3 +259876,23 @@ https://polymarket.com/event/mlb-bos-tex-2026-09-17
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-18T10:53:26.290208+00:00
+============================================================
+
+--- [BIG LOSS] Market: Counter-Strike: Liquid vs Infinite (BO1) - Logitech G Play Connect Group B
+--- User: 0x29b52d98ac9ef9414b04164246c95BC63d7 | Loss: $27,025 | Odds: 34.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+an anonymous whale lost $27.0K
+"Counter-Strike: Liquid vs Infinite (BO1) - Logitech G Play Connect Group B"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/cs2-tl1-inf6-2026-09-18
+
+────────────────────────────────────────
+

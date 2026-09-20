@@ -261559,3 +261559,50 @@ https://polymarket.com/event/atp-pacheco-simakin-2026-09-19
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-20T18:59:40.570448+00:00
+============================================================
+
+--- [BIG LOSS] Market: LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs
+--- User: 0x076daa87 | Loss: $20,911 | Odds: 32.0%
+
+[TWEET]
+$20.9K lost on Polymarket.
+0x076daa87 picked the wrong side of "LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-g2-mkoi-2026-09-20
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs
+--- User: BrotherObama | Loss: $50,000 | Odds: 32.5%
+
+[TWEET]
+BrotherObama went heavy on Polymarket and lost $50.0K.
+"LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-g2-mkoi-2026-09-20
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: LoL: G2 Esports vs Movistar KOI - Game 3 Winner
+--- User: BrotherObama | Loss: $30,000 | Odds: 38.0%
+
+[TWEET]
+BrotherObama went heavy on Polymarket and lost $30.0K.
+"LoL: G2 Esports vs Movistar KOI - Game 3 Winner"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/lol-g2-mkoi-2026-09-20
+
+────────────────────────────────────────
+

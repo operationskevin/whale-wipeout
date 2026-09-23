@@ -263137,3 +263137,36 @@ https://polymarket.com/event/atp-cassone-tabur-2026-09-22
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-23T18:33:10.898702+00:00
+============================================================
+
+--- [BIG LOSS] Market: St. Tropez: Titouan Droguet vs Borna Gojo
+--- User: 0x076daa87 | Loss: $15,447 | Odds: 68.0%
+
+[TWEET]
+$15.4K lost on Polymarket.
+0x076daa87 was on the wrong side of "St. Tropez: Titouan Droguet vs Borna Gojo"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-droguet-gojo-2026-09-23
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: St. Tropez: Titouan Droguet vs Borna Gojo
+--- User: UpTheBlues | Loss: $20,173 | Odds: 70.0%
+
+[TWEET]
+UpTheBlues went heavy on Polymarket and lost $20.2K.
+"St. Tropez: Titouan Droguet vs Borna Gojo"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-droguet-gojo-2026-09-23
+
+────────────────────────────────────────
+

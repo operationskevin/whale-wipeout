@@ -264823,3 +264823,37 @@ https://polymarket.com/event/mlb-hou-oak-2026-09-25
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-09-26T10:06:55.679440+00:00
+============================================================
+
+--- [BIG LOSS] Market: Hangzhou Open: Quentin Halys vs Roman Safiullin
+--- User: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Loss: $21,427 | Odds: 58.0%
+
+[TWEET]
+$21.4K lost on Polymarket.
+an anonymous whale picked the wrong side of "Hangzhou Open: Quentin Halys vs Roman Safiullin"
+Markets don't negotiate.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-halys-safiull-2026-09-25
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Hangzhou Open: Quentin Halys vs Roman Safiullin
+--- User: slowbettor | Loss: $22,902 | Odds: 50.0%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+slowbettor lost $22.9K
+"Hangzhou Open: Quentin Halys vs Roman Safiullin"
+No mercy.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-halys-safiull-2026-09-25
+
+────────────────────────────────────────
+

@@ -276147,3 +276147,51 @@ https://polymarket.com/event/cfb-nd-byu-2026-10-17
 
 ────────────────────────────────────────
 
+
+============================================================
+Generated: 2026-10-18T08:43:44.178305+00:00
+============================================================
+
+--- [BIG LOSS] Market: Almaty Open, Qualification: Gabriel Diallo vs Rei Sakamoto
+--- User: ferrariChampions2026 | Loss: $20,334 | Odds: 70.0%
+
+[TWEET]
+$20.3K lost on Polymarket.
+ferrariChampions2026 was on the wrong side of "Almaty Open, Qualification: Gabriel Diallo vs Rei Sakamoto"
+Full position. Wrong call. @Polymarket
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/atp-diallo-sakamot-2026-10-18
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Valorant: LOUD vs Team Vitality - Map 1 Winner
+--- User: 0x99a093771ad58bcfc3023cd75566415f | Loss: $13,371 | Odds: 88.0%
+
+[TWEET]
+an anonymous whale went heavy on Polymarket and lost $13.4K.
+"Valorant: LOUD vs Team Vitality - Map 1 Winner"
+The market disagreed.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/val-loud-vit-2026-10-18
+
+────────────────────────────────────────
+
+--- [BIG LOSS] Market: Japan Women's Open, Qualification: Harriet Dart vs Aoi Ito
+--- User: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Loss: $15,196 | Odds: 42.5%
+
+[TWEET]
+🐋 POLYMARKET WHALE LOSS
+User: an anonymous whale  ·  Lost: $15.2K
+"Japan Women's Open, Qualification: Harriet Dart vs Aoi Ito"
+Ouch.
+
+[REPLY]
+🔗 Verify on Polymarket:
+https://polymarket.com/event/wta-dart-ito-2026-10-18
+
+────────────────────────────────────────
+
